@@ -1,0 +1,84 @@
+For pgAdmin 4 v4.15 on Ubuntu, according to the download page:
+
+Install dependencies, create a virtual environment, download, install & configure
+Using Python2.x
+sudo apt-get install virtualenv python-pip libpq-dev python-dev
+
+cd
+virtualenv pgadmin4
+cd pgadmin4
+source bin/activate
+
+pip install https://ftp.postgresql.org/pub/pgadmin/pgadmin4/v4.15/pip/pgadmin4-4.15-py2.py3-none-any.whl
+Using Python3.6 (Preferred to avoid encoding related issues)
+sudo apt-get install virtualenv python3-pip libpq-dev python3-dev
+
+cd
+virtualenv -p python3 pgadmin4
+cd pgadmin4
+source bin/activate
+
+pip3 install https://ftp.postgresql.org/pub/pgadmin/pgadmin4/v4.15/pip/pgadmin4-4.15-py2.py3-none-any.whl
+Configure
+Override default paths and set it to single-user mode in the local configuration file:
+
+nano lib/python2.7/site-packages/pgadmin4/config_local.py
+For Python3.x:
+
+nano lib/python3.6/site-packages/pgadmin4/config_local.py
+Write:
+
+import os
+DATA_DIR = os.path.realpath(os.path.expanduser(u'~/.pgadmin/'))
+LOG_FILE = os.path.join(DATA_DIR, 'pgadmin4.log')
+SQLITE_PATH = os.path.join(DATA_DIR, 'pgadmin4.db')
+SESSION_DB_PATH = os.path.join(DATA_DIR, 'sessions')
+STORAGE_DIR = os.path.join(DATA_DIR, 'storage')
+SERVER_MODE = False
+Run
+python lib/python2.7/site-packages/pgadmin4/pgAdmin4.py
+For Python3.x:
+
+python3 lib/python3.6/site-packages/pgadmin4/pgAdmin4.py
+Access
+Access at http://localhost:5050
+
+Exit
+Exit with Ctrl-C
+
+Run again
+cd ~/pgadmin4
+source bin/activate
+python lib/python2.7/site-packages/pgadmin4/pgAdmin4.py
+For Python3.6
+
+#!/bin/bash
+cd ~/pgadmin4
+source bin/activate
+python3 lib/python3.6/site-packages/pgadmin4/pgAdmin4.py
+Make a shortcut
+touch ~/pgadmin4/pgadmin4
+chmod +x ~/pgadmin4/pgadmin4
+nano ~/pgadmin4/pgadmin4
+Write:
+
+#!/bin/bash
+cd ~/pgadmin4
+source bin/activate
+python lib/python2.7/site-packages/pgadmin4/pgAdmin4.py
+For Python3.6
+
+#!/bin/bash
+cd ~/pgadmin4
+source bin/activate
+python3 lib/python3.6/site-packages/pgadmin4/pgAdmin4.py
+Now you can just run it with a simpler command:
+
+~/pgadmin4/pgadmin4
+Python3 users
+Replace [x] in Python3.6 with your respective version.
+
+Conflict with pgAdmin 3 configuration
+pgAdmin 4 will not start in the environment where pgAdmin 3 was previously installed and used because of
+incompatible configuration in the .pgadmin directory. The simplest solution is to either clear that directory 
+or tweak config_local.py to point to a clean new .pgadmin4 directory.
