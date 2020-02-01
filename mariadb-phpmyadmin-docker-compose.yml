@@ -1,0 +1,25 @@
+version: '3.1'
+
+services:
+  mariadb:
+    image: linuxserver/mariadb
+    container_name: mariadb
+    volumes:
+      - /tmp/db/:/config
+    restart: unless-stopped
+    environment:
+      - MYSQL_ROOT_PASSWORD=mysqlrootpassword
+      - MYSQL_USER=sqluser #optional
+      - MYSQL_PASSWORD=mysqlpassword #optional
+
+  phpmyadmin:
+    depends_on:
+        - mariadb
+    image: ebspace/armhf-phpmyadmin
+    restart: always
+    ports:
+#      - 127.10.10.10:8080:80
+      - 8080:80
+    environment:
+      PMA_HOST: mariadb
+      MYSQL_ROOT_PASSWORD: mysqlrootpassword
