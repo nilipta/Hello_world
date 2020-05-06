@@ -1,0 +1,7 @@
+Windows Registry Editor Version 5.00
+
+[HKEY_CLASSES_ROOT\Directory\Background\shell\cygwin_bash]
+@="Open Cygwin Here"
+
+[HKEY_CLASSES_ROOT\Directory\Background\shell\cygwin_bash\command]
+@="C:\\cygwin\\bin\\mintty.exe -e /bin/xhere /bin/bash.exe"
