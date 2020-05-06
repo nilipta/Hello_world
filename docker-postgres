@@ -1,0 +1,32 @@
+docker exec -i 3c0 pg_restore -U postgres -v -d store < /home/pi/Documents/databse/postgres/vas-bkup
+
+#yml file docker compose
+
+# Use postgres/example user/password credentials
+version: '3.1'
+
+services:
+
+  db:
+    image: postgres
+    restart: always
+    environment:
+      POSTGRES_PASSWORD: example
+
+  adminer:
+    image: adminer
+    restart: always
+    ports:
+      - 8080:8080
+
+
+#another yml file
+version: '3'
+services:
+  postgres:
+    image: postgres
+    ports:
+      - "5432:5432"
+    volumes:
+      - /tmp/db:/var/lib/postgresql/data
+
