@@ -1,0 +1,7 @@
+touch /tmp/pgadmin4.log
+touch /tmp/pgadmin4.db
+mkdir /tmp/sessions
+mkdir /tmp/storage
+cd ./pgadminDir
+source ./bin/activate
+python3 lib/python*/site-packages/pgadmin4/pgAdmin4.py
