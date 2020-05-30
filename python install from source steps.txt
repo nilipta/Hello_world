@@ -1,0 +1,43 @@
+65
+
+You need to edit Modules/Setup.dist to specify the location of OpenSSL if it is not in the standard location. From Getting SSL Support in Python 2.5.1:
+
+If you find yourself on a linux box needing ssl support in python (to use a client in things like httplib.HTTPSConnection or imaplib.IMAP4_SSL), then let me save you a couple of hours of hunting around the web (of course if you have found this then that means you've done some level hunting already!).
+
+You'll know if you need ssl support compiled into your python installation if you get the following exception message: AttributeError: 'module' object has no attribute 'ssl'
+
+In order to make that go away so you can continue happily slinging python code, you'll need to first make sure you have OpenSSL installed. By default it is installed from source at: /usr/local/ssl
+
+If that directory doesn't exist, then grab the source package.
+
+Do the standard:
+
+tar zxf openssl-0.9.8g.tar.gz
+cd openssl-0.9.8g
+./config
+make
+make install
+Then grab the python sources for 2.5.1 and: tar zxf Python-2.5.1.tgz && cd Python-2.5.1
+
+Then you need to edit the Modules/Setup.dist:
+
+204:# Socket module helper for SSL support; you must comment out the other
+205:# socket line above, and possibly edit the SSL variable:
+206:SSL=/usr/local/ssl
+207:_ssl _ssl.c \
+208:    -DUSE_SSL -I$(SSL)/include -I$(SSL)/include/openssl \
+209:    -L$(SSL)/lib -lssl -lcrypto
+If you installed OpenSSL in the default locations you can just uncomment lines 206-209, then:
+
+./configure --prefix=/home/pi/python3_directory_where_you_need_to_install_python_binary
+make
+make install
+Then verify your installation with:
+
+python /usr/local/lib/python2.5/test/test_socket_ssl.py
+test_rude_shutdown ...
+test_basic ...
+test_timeout ...
+Make sure the changes to Modules/Setup.dist get picked up by cleaning the source root (e.g. make distclean) and run configure and make again.
+
+export PATH="$PATH:/home/pi/Documents/python/py38/bin:"
