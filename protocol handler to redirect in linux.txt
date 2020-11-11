@@ -1,0 +1,26 @@
+for chromium: 
+
+[Desktop Entry]
+Version=1.0
+Name=MAN vmware horizon
+Comment=MAN vmware horizon client
+GenericName=Web Browser
+Keywords=Internet;WWW;Browser;Web;Explorer
+Exec=/usr/bin/vmware-view %u
+Terminal=false
+X-MultipleArgs=false
+Type=Application
+Categories=GNOME;GTK;Network;WebBrowser;
+MimeType=x-scheme-handler/http;
+StartupNotify=true
+
+::: - create this file in /usr/share/applications with CustomName.desktop.
+
+xdg-mime default man-vmware-horizon.desktop x-scheme-handler/vmware-view
+
+::: - execute the above command so that the vmware-view://example.com type url can be opened in perticular application you want.
+
+for mozilla:
+
+-> goto about:config in search url bar in itself
+-> network.protocol-handler.expose.vmware-view (Add this entry and set boolean + value set false + ),  then next time it will ask the application path, you can set it up for redirection.
