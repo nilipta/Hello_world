@@ -1,0 +1,2 @@
+sudo ln -sf /original file path.so /usr/lib/requiredName.so
+
