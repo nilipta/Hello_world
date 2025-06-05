@@ -14,3 +14,11 @@ basedir=G:\\project\\mysql-8.4.5-winx64
 datadir=G:\\project\\mysqldata
 port=3306
 enable-named-pipe
+
+
+mysql -u root -p
+enter password to login..
+
+change password:
+mysql> ALTER USER 'root'@'localhost' IDENTIFIED BY 'mysqlrootpassword';
+Query OK, 0 rows affected (0.07 sec)
