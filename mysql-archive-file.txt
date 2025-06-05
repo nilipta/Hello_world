@@ -1,0 +1,16 @@
+INITIALIZE = mysqld --initialize --user=mysql --basedir=G:\project\mysql-8.4.5-winx64 --datadir=G:\project\mysqldata
+mysqld --defaults-file="G:\project\mysql-8.4.5-winx64\my.ini" --console --skip-grant-tables
+
+getting standsrd password setup
+https://dev.mysql.com/doc/mysql-getting-started/en/
+G:\project\mysqldata ->DESKTOP-NQGU712.err -> 2025-06-05T08:08:39.963023Z 6 [Note] [MY-010454] [Server] A temporary password is generated for root@localhost: -jpfeJp!G1C0
+
+
+file my.ini
+[mysqld]
+# set basedir to your installation path
+basedir=G:\\project\\mysql-8.4.5-winx64
+# set datadir to the location of your data directory
+datadir=G:\\project\\mysqldata
+port=3306
+enable-named-pipe
