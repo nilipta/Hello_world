@@ -1,0 +1,107 @@
+    1  lspci | grep -i vga
+    2  nvidia-smi
+    3  sudo apt update
+    4  sudo apt install --reinstall system76-driver-nvidia
+    5  sudo reboot
+    6  g++ --version
+    7  python -V
+    8  sudo system76-power graphics hybrid
+    9  sudo reboot
+   10  sudo apt upgrade
+   11  sudo apt autoremove
+   12  sudo system76-power
+   13  sudo system76-power graphics
+   14  echo "Text"> test.txt
+   15  exit
+   16  sudo apt install build-essential git curl wget python3-pip python3-venv
+   17  nvidia-smi
+   18  python -V
+   19  python3 -V
+   20  echo "alias python='python3'" >> ~/.bashrc
+   21  source ~/.bashrc
+   22  python --version
+   23  sudo apt update
+   24  sudo apt upgrade
+   25  lsblk
+   26  sudo apt install ntfs-3g~
+   27  sudo apt install ntfs-3g
+   28  sudo umount /media/nil-pop/New\ Volume
+   29  lsblk
+   30  sudo ntfslabel /dev/nvme0n1p3 storage2
+   31  cd /mnt/
+   32  ls
+   33  cd /media/nil-pop/storage2/
+   34  cd projects/python-popos/
+   35  ls
+   36  miniconda
+   37  sudo mkdir miniconda
+   38  cd ../
+   39  mkdir python-popos
+   40  sudo mkdir python-popos
+   41  ls
+   42  cd python-popos/
+   43  wget https://repo.anaconda.com/miniconda/Miniconda3-latest-Linux-x86_64.sh
+   44  sudo wget https://repo.anaconda.com/miniconda/Miniconda3-latest-Linux-x86_64.sh
+   45  ls
+   46  sudo bash Miniconda3-latest-Linux-x86_64.sh
+   47  python -V
+   48  java --version
+   49  lsblk
+   50  htop
+   51  sudo apt install htop
+   52  cd /media/nil-pop/program
+   53  cd projects/python-popos/
+   54  sudo bash Miniconda3-latest-Linux-x86_64.sh 
+   55  sudo bash Miniconda3-latest-Linux-x86_64.sh -u
+   56  ls
+   57  ls miniconda
+   58  ls minicondabin/
+   59  rm minicondabin/
+   60  rm minicondabin/ -r
+   61  ls
+   62  sudo rm minicondabin/ -r 
+   63  ls
+   64  ls -lh
+   65  du ./miniconda/ -h -t 100m
+   66  ls
+   67  ./miniconda/bin/conda init
+   68  source ~/.bashrc
+   69  mkdir minicondabin
+   70  sudo mkdir minicondabin
+   71  cd miniconda
+   72  pwd
+   73  deactivate
+   74  conda config --set auto_activate_base false
+   75  conda activate
+   76  conda list
+   77  which python
+   78  python --version
+   79  conda create --name tf-gpu tensorflow-gpu
+   80  conda activate tf-gpu
+   81  python --version
+   82  conda info
+   83  conda list
+   84  conda install pandas scikit-learn matplotlib seaborn jupyterlab -c conda-forge
+   85  python -c "import torch, tensorflow as tf; print('Torch:', torch.__version__, '| CUDA:', torch.cuda.is_available()); print('TF:', tf.__version__, '| GPU:', tf.config.list_physical_devices('GPU'))"
+   86  conda install pytorch torchvision torchaudio pytorch-cuda=11.8 -c pytorch -c nvidia
+   87  conda list
+   88  ls /media/nil-pop/program/projects/python-popos/
+   89  du -h -t 100m /media/nil-pop/program/projects/python-popos/miniconda/ 
+   90  conda info
+   91  pwd
+   92  ls /home/nil-pop/.conda/envs/tf-gpu
+   93  du -h -t 100m /home/nil-pop/.conda/envs/tf-gpu
+   94  ls media/nil-pop/program/projects/python-popos/miniconda/pkgs
+   95  ls media/nil-pop/program/projects/python-popos/miniconda/
+   96  conda create --prefix /media/nil-pop/program/projects/python-popos/conda-envs/tf-gpu --clone tf-gpu
+   97  sudo conda create --prefix /media/nil-pop/program/projects/python-popos/conda-envs/tf-gpu --clone tf-gpu
+   98  ls -ld /media/nil-pop/program/projects/python-popos/
+   99  sudo chown -R $USER:$USER /media/nil-pop/program/projects/python-popos/
+  100  sudo chmod -R u+rwx /media/nil-pop/program/projects/python-popos/
+  101  ls -ld /media/nil-pop/program/projects/python-popos/
+  102  sudo conda create --prefix /media/nil-pop/program/projects/python-popos/conda-envs/tf-gpu --clone tf-gpu
+  103  conda create --prefix /media/nil-pop/program/projects/python-popos/conda-envs/tf-gpu --clone tf-gpu
+  104  history
+  105  pwd
+  106  git clone https://github.com/nilipta/Hello_world.git
+  107  history > ./Hello_world/popos-history.txt
