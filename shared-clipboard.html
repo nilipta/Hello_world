@@ -1,0 +1,83 @@
+<!--  need a shared clipboard across connected devices, so need a textbox & post button. -->
+<div id="clipboard-container" style="margin-top: 20px; font-family: sans-serif;">
+    <textarea id="clipboard-input" rows="5" style="width: 100%; max-width: 500px; display: block; margin-bottom: 10px;"
+        placeholder="Type or paste content to share..."></textarea>
+    <button id="post-btn" style="padding: 10px 20px; cursor: pointer;">Post to Shared Clipboard</button>
+</div>
+
+<div id="messages-container" style="margin-top: 20px; font-family: sans-serif; max-width: 500px;"></div>
+
+<script>
+    const clipboardInput = document.getElementById('clipboard-input');
+    const postBtn = document.getElementById('post-btn');
+    const messagesContainer = document.getElementById('messages-container');
+
+    // Fetch the current clipboard content from the server
+    async function fetchClipboard() {
+        try {
+            const response = await fetch('/api/clipboard');
+            if (response.ok) {
+                const data = await response.json();
+
+                // Display all messages as separate blocks, newest first
+                messagesContainer.innerHTML = '';
+                data.content.slice().reverse().forEach(msg => {
+                    const msgDiv = document.createElement('div');
+                    msgDiv.style.cssText = 'padding: 10px; margin-bottom: 10px; background-color: #f4f4f9; border: 1px solid #ddd; border-radius: 5px; position: relative; min-height: 24px;';
+
+                    const copyBtn = document.createElement('button');
+                    copyBtn.textContent = 'Copy';
+                    copyBtn.style.cssText = 'position: absolute; top: 10px; right: 10px; cursor: pointer; padding: 4px 8px; font-size: 12px;';
+                    copyBtn.addEventListener('click', () => {
+                        navigator.clipboard.writeText(msg).then(() => {
+                            copyBtn.textContent = 'Copied!';
+                            setTimeout(() => copyBtn.textContent = 'Copy', 2000);
+                        });
+                    });
+
+                    const textDiv = document.createElement('div');
+                    textDiv.style.cssText = 'white-space: pre-wrap; word-break: break-word; margin-right: 60px;';
+                    textDiv.textContent = msg;
+
+                    msgDiv.appendChild(copyBtn);
+                    msgDiv.appendChild(textDiv);
+                    messagesContainer.appendChild(msgDiv);
+                });
+            }
+        } catch (error) {
+            console.error('Error fetching clipboard:', error);
+        }
+    }
+
+    // Post the new content to the server
+    postBtn.addEventListener('click', async () => {
+        const content = clipboardInput.value;
+        if (!content) {
+            alert('Please enter some text first.');
+            return;
+        }
+
+        postBtn.disabled = true;
+        postBtn.textContent = 'Posting...';
+        try {
+            await fetch('/api/clipboard', {
+                method: 'POST',
+                headers: { 'Content-Type': 'application/json' },
+                body: JSON.stringify({ content: content })
+            });
+        } catch (error) {
+            console.error('Error posting clipboard:', error);
+            alert('Failed to post to clipboard.');
+        } finally {
+            clipboardInput.value = '';
+            postBtn.disabled = false;
+            postBtn.textContent = 'Post to Shared Clipboard';
+        }
+    });
+
+    // Poll for updates every 2 seconds
+    setInterval(fetchClipboard, 2000);
+
+    // Initial fetch on load
+    fetchClipboard();
+</script>
