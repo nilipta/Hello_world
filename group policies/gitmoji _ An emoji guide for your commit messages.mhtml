@@ -1,0 +1,1792 @@
+From: <Saved by Blink>
+Snapshot-Content-Location: https://gitmoji.dev/
+Subject: gitmoji | An emoji guide for your commit messages
+Date: Sun, 3 May 2026 11:54:34 +0530
+MIME-Version: 1.0
+Content-Type: multipart/related;
+	type="text/html";
+	boundary="----MultipartBoundary--UJV2JerR3aGUKU6pxZH3bLNE5eDLhiVRKxU2zETYQJ----"
+
+
+------MultipartBoundary--UJV2JerR3aGUKU6pxZH3bLNE5eDLhiVRKxU2zETYQJ----
+Content-Type: text/html
+Content-ID: <frame-472392D42B892E86F535EDA581C3FFB3@mhtml.blink>
+Content-Transfer-Encoding: quoted-printable
+Content-Location: https://gitmoji.dev/
+
+<!DOCTYPE html><!--YbhQQxRySmJch9DW0K2_A--><html lang=3D"en" data-theme=3D"=
+light" style=3D"color-scheme: light;"><head><meta http-equiv=3D"Content-Typ=
+e" content=3D"text/html; charset=3DUTF-8"><link rel=3D"stylesheet" type=3D"=
+text/css" href=3D"cid:css-5115e54c-e222-489d-9c32-0a87626de522@mhtml.blink"=
+ /><link rel=3D"stylesheet" type=3D"text/css" href=3D"cid:css-155873b1-a186=
+-4569-bfc8-9509be164d8a@mhtml.blink" /><meta name=3D"viewport" content=3D"w=
+idth=3Ddevice-width, initial-scale=3D1"><link rel=3D"stylesheet" href=3D"ht=
+tps://gitmoji.dev/_next/static/chunks/d3d0e7e7dc1c149e.css" data-precedence=
+=3D"next"><link rel=3D"stylesheet" href=3D"https://gitmoji.dev/_next/static=
+/chunks/8300ce7503ba9f3f.css" data-precedence=3D"next"><link rel=3D"stylesh=
+eet" href=3D"https://gitmoji.dev/_next/static/chunks/298b304410e38586.css" =
+data-precedence=3D"next"><link rel=3D"preload" as=3D"script" fetchpriority=
+=3D"low" href=3D"https://gitmoji.dev/_next/static/chunks/93a794384fca394c.j=
+s"><meta name=3D"theme-color" content=3D"#FFDD67"><link rel=3D"search" type=
+=3D"application/opensearchdescription+xml" href=3D"https://gitmoji.dev/stat=
+ic/opensearchdescription.xml"><title>gitmoji | An emoji guide for your comm=
+it messages</title><meta name=3D"description" content=3D"Gitmoji is an emoj=
+i guide for your commit messages. Aims to be a standarization cheatsheet fo=
+r using emojis on GitHub's commit messages."><link rel=3D"author" href=3D"h=
+ttps://carloscuesta.me/"><meta name=3D"author" content=3D"Carlos Cuesta"><l=
+ink rel=3D"manifest" href=3D"https://gitmoji.dev/static/manifest.json"><met=
+a name=3D"keywords" content=3D"gitmoji,emoji,carloscuesta,commit"><meta nam=
+e=3D"robots" content=3D"index, follow"><meta name=3D"msapplication-TileColo=
+r" content=3D"#FFDD67"><meta name=3D"msapplication-TileImage" content=3D"/m=
+s-icon-144x144.png"><meta name=3D"google-site-verification" content=3D"78vm=
+lhi_erc-UGybxcGwHyiUtf04wzYExTLa-4LoWio"><link rel=3D"canonical" href=3D"ht=
+tps://gitmoji.dev/"><meta property=3D"og:title" content=3D"gitmoji"><meta p=
+roperty=3D"og:description" content=3D"An emoji guide for your commit messag=
+es."><meta property=3D"og:url" content=3D"https://gitmoji.dev"><meta proper=
+ty=3D"og:image" content=3D"https://gitmoji.dev/static/gitmoji.gif"><meta na=
+me=3D"twitter:card" content=3D"summary"><meta name=3D"twitter:creator" cont=
+ent=3D"@crloscuesta"><meta name=3D"twitter:title" content=3D"gitmoji"><meta=
+ name=3D"twitter:description" content=3D"An emoji guide for your commit mes=
+sages."><meta name=3D"twitter:image" content=3D"https://gitmoji.dev/static/=
+gitmoji.gif"><link rel=3D"icon" href=3D"https://gitmoji.dev/static/favicon-=
+16x16.png" sizes=3D"16x16" type=3D"image/png"><link rel=3D"icon" href=3D"ht=
+tps://gitmoji.dev/static/favicon-32x32.png" sizes=3D"32x32" type=3D"image/p=
+ng"><link rel=3D"icon" href=3D"https://gitmoji.dev/static/favicon-96x96.png=
+" sizes=3D"96x96" type=3D"image/png"><link rel=3D"icon" href=3D"https://git=
+moji.dev/static/android-icon-192x192.png" sizes=3D"192x192" type=3D"image/p=
+ng"><link rel=3D"apple-touch-icon" href=3D"https://gitmoji.dev/static/apple=
+-icon-57x57.png" sizes=3D"57x57"><link rel=3D"apple-touch-icon" href=3D"htt=
+ps://gitmoji.dev/static/apple-icon-60x60.png" sizes=3D"60x60"><link rel=3D"=
+apple-touch-icon" href=3D"https://gitmoji.dev/static/apple-icon-72x72.png" =
+sizes=3D"72x72"><link rel=3D"apple-touch-icon" href=3D"https://gitmoji.dev/=
+static/apple-icon-76x76.png" sizes=3D"76x76"><link rel=3D"apple-touch-icon"=
+ href=3D"https://gitmoji.dev/static/apple-icon-114x114.png" sizes=3D"114x11=
+4"><link rel=3D"apple-touch-icon" href=3D"https://gitmoji.dev/static/apple-=
+icon-120x120.png" sizes=3D"120x120"><link rel=3D"apple-touch-icon" href=3D"=
+https://gitmoji.dev/static/apple-icon-144x144.png" sizes=3D"144x144"><link =
+rel=3D"apple-touch-icon" href=3D"https://gitmoji.dev/static/apple-icon-152x=
+152.png" sizes=3D"152x152"><link rel=3D"apple-touch-icon" href=3D"https://g=
+itmoji.dev/static/apple-icon-180x180.png" sizes=3D"180x180"><link rel=3D"st=
+ylesheet" href=3D"https://gitmoji.dev/_next/static/chunks/27241192a9831499.=
+css"></head><body><svg style=3D"position:absolute;width:0;height:0" width=
+=3D"0" height=3D"0" version=3D"1.1" xmlns=3D"http://www.w3.org/2000/svg" xm=
+lns:xlink=3D"http://www.w3.org/1999/xlink"><defs><symbol id=3D"icon-heart" =
+viewBox=3D"0 0 64 64"><title>heart</title><path class=3D"heart" d=3D"m61.1 =
+18.2c-6.4-17-27.2-9.4-29.1-.9-2.6-9-22.9-15.7-29.1.9-6.9 18.5 26.7 35.1 29.=
+1 37.8 2.4-2.2 36-19.6 29.1-37.8" fill=3D"#ff5a79"></path></symbol><symbol =
+id=3D"icon-star" viewBox=3D"0 0 64 64"><title>star</title><path class=3D"tw=
+itter" d=3D"M62,25.2H39.1L32,3l-7.1,22.2H2l18.5,13.7l-7,22.1L32,47.3L50.5,6=
+1l-7.1-22.2L62,25.2z" fill=3D"#FFDD67"></path></symbol><symbol id=3D"icon-t=
+witter" viewBox=3D"0 0 64 64"><title>twitter</title><g fill=3D"#42ade2"><pa=
+th d=3D"m59.8 24.3c0 0 1.1-6.2-3.5-3.4 0 0-.4-6.3-4.3-1.9 0 0-2.1-3.9-4.4-.=
+3-3.1 4.8-5.2 12.4-3.2 25l3.8-2.5c2.7-7.9 12.4-8.8 13.7-13.1.9-3-2.1-3.8-2.=
+1-3.8"></path><path d=3D"m22.1 17.6l-9.9 3.6c2.2-12 16.6-11.2 16.6-11.2s-6.=
+8 3.2-6.7 7.6"></path><path d=3D"m23.7 19.8l-10.5 1.4c4.8-11.2 18.7-7.3 18.=
+7-7.3s-7.3 1.6-8.2 5.9"></path></g><g fill=3D"#ffd93b"><path d=3D"m2 29l5.4=
+-1.4v3.6c0-.1-3.3-.6-5.4-2.2"></path><path d=3D"M7.4,27.5L2,24.8c3.6-2.8,7.=
+7-1.9,7.7-1.9L7.4,27.5z"></path></g><g fill=3D"#e08828"><path d=3D"m33.8 53=
+h-2.1v7.9c-.3.1-2.1-.1-2.9-.1-1.8 0-3.3 1.3-3.3 1.3h8.3v-9.1"></path><path =
+d=3D"m25 53h-2.1v7.9c-.3.1-2.1-.1-2.9-.1-1.8 0-3.3 1.3-3.3 1.3h8.3v-9.1"></=
+path><path d=3D"m54 36.2c3.9 0-4.1 17.5-23.3 17.5-13 0-23.9-5.2-23.9-21.5 0=
+-10.1 6.4-18.3 19.5-15 13.3 3.5 6.5 19 27.7 19" fill=3D"#42ade2"></path><pa=
+th d=3D"m37.6 51.7c-15.6 0-14-12-27.9-11.2 5.1 15.8 27.9 11.2 27.9 11.2" fi=
+ll=3D"#fff"></path><path d=3D"m39.1 29.2c-10-9.8-20.2 6.2-7.9 12.6 12.1 6.2=
+ 20.4-4.8 20.4-4.8s-6.1-1.5-12.5-7.8" fill=3D"#297b9d"></path></g><circle c=
+x=3D"15.1" cy=3D"24.9" r=3D"2.5" fill=3D"#3e4347"></circle></symbol><symbol=
+ id=3D"icon-twitter-x" viewBox=3D"0 0 48 35"><title>twitter-x</title><path =
+d=3D"M12.91 5.477l14.813 19.882-14.907 16.164h3.356l13.05-14.152 10.544 14.=
+152h11.418l-15.645-21L49.414 5.477H46.06l-12.02 13.035-9.71-13.035zm4.934 2=
+.48h5.242L46.25 39.043h-5.246zm0 0"></path></symbol><symbol id=3D"icon-list=
+" x=3D"0px" y=3D"0px" viewBox=3D"0 0 512 512"><title>list</title><path fill=
+=3D"currentColor" d=3D"M149.333 216v80c0 13.255-10.745 24-24 24H24c-13.255 =
+0-24-10.745-24-24v-80c0-13.255 10.745-24 24-24h101.333c13.255 0 24 10.745 2=
+4 24zM0 376v80c0 13.255 10.745 24 24 24h101.333c13.255 0 24-10.745 24-24v-8=
+0c0-13.255-10.745-24-24-24H24c-13.255 0-24 10.745-24 24zM125.333 32H24C10.7=
+45 32 0 42.745 0 56v80c0 13.255 10.745 24 24 24h101.333c13.255 0 24-10.745 =
+24-24V56c0-13.255-10.745-24-24-24zm80 448H488c13.255 0 24-10.745 24-24v-80c=
+0-13.255-10.745-24-24-24H205.333c-13.255 0-24 10.745-24 24v80c0 13.255 10.7=
+45 24 24 24zm-24-424v80c0 13.255 10.745 24 24 24H488c13.255 0 24-10.745 24-=
+24V56c0-13.255-10.745-24-24-24H205.333c-13.255 0-24 10.745-24 24zm24 264H48=
+8c13.255 0 24-10.745 24-24v-80c0-13.255-10.745-24-24-24H205.333c-13.255 0-2=
+4 10.745-24 24v80c0 13.255 10.745 24 24 24z" class=3D""></path></symbol><sy=
+mbol id=3D"icon-grid" viewBox=3D"0 0 512 512"><title>grid</title><path fill=
+=3D"currentColor" d=3D"M149.333 56v80c0 13.255-10.745 24-24 24H24c-13.255 0=
+-24-10.745-24-24V56c0-13.255 10.745-24 24-24h101.333c13.255 0 24 10.745 24 =
+24zm181.334 240v-80c0-13.255-10.745-24-24-24H205.333c-13.255 0-24 10.745-24=
+ 24v80c0 13.255 10.745 24 24 24h101.333c13.256 0 24.001-10.745 24.001-24zm3=
+2-240v80c0 13.255 10.745 24 24 24H488c13.255 0 24-10.745 24-24V56c0-13.255-=
+10.745-24-24-24H386.667c-13.255 0-24 10.745-24 24zm-32 80V56c0-13.255-10.74=
+5-24-24-24H205.333c-13.255 0-24 10.745-24 24v80c0 13.255 10.745 24 24 24h10=
+1.333c13.256 0 24.001-10.745 24.001-24zm-205.334 56H24c-13.255 0-24 10.745-=
+24 24v80c0 13.255 10.745 24 24 24h101.333c13.255 0 24-10.745 24-24v-80c0-13=
+.255-10.745-24-24-24zM0 376v80c0 13.255 10.745 24 24 24h101.333c13.255 0 24=
+-10.745 24-24v-80c0-13.255-10.745-24-24-24H24c-13.255 0-24 10.745-24 24zm38=
+6.667-56H488c13.255 0 24-10.745 24-24v-80c0-13.255-10.745-24-24-24H386.667c=
+-13.255 0-24 10.745-24 24v80c0 13.255 10.745 24 24 24zm0 160H488c13.255 0 2=
+4-10.745 24-24v-80c0-13.255-10.745-24-24-24H386.667c-13.255 0-24 10.745-24 =
+24v80c0 13.255 10.745 24 24 24zM181.333 376v80c0 13.255 10.745 24 24 24h101=
+.333c13.255 0 24-10.745 24-24v-80c0-13.255-10.745-24-24-24H205.333c-13.255 =
+0-24 10.745-24 24z"></path></symbol><symbol id=3D"icon-light" viewBox=3D"0 =
+0 24 24"><title>light</title><path fill=3D"currentColor" d=3D"M3.563 18.563=
+l1.781-1.828 1.406 1.406-1.781 1.828zM11.016 22.453v-2.953h1.969v2.953h-1.9=
+69zM12 5.484q2.484 0 4.242 1.758t1.758 4.242-1.758 4.242-4.242 1.758-4.242-=
+1.758-1.758-4.242 1.758-4.242 4.242-1.758zM20.016 10.5h3v2.016h-3v-2.016zM1=
+7.25 18.141l1.406-1.359 1.781 1.781-1.406 1.406zM20.438 4.453l-1.781 1.781-=
+1.406-1.406 1.781-1.781zM12.984 0.563v2.953h-1.969v-2.953h1.969zM3.984 10.5=
+v2.016h-3v-2.016h3zM6.75 4.828l-1.406 1.406-1.781-1.781 1.406-1.406z"></pat=
+h></symbol><symbol id=3D"icon-dark" viewBox=3D"0 0 24 24"><title>dark</titl=
+e><path fill=3D"currentColor" d=3D"M9.984 2.016q4.172 0 7.102 2.93t2.93 7.0=
+55-2.93 7.055-7.102 2.93q-2.719 0-4.969-1.313 2.297-1.313 3.633-3.633t1.336=
+-5.039-1.336-5.039-3.633-3.633q2.25-1.313 4.969-1.313z"></path></symbol></d=
+efs></svg><div class=3D"styles-module__c3C54G__hamburger"><button aria-labe=
+l=3D"Open navigation menu" class=3D"styles-module__c3C54G__button"><svg xml=
+ns=3D"http://www.w3.org/2000/svg" width=3D"48" height=3D"48" fill=3D"curren=
+tColor"><path d=3D"M6 12H42V16.032H6V12ZM6 25.968V22.03H42V25.968H6ZM6 36V3=
+1.968H42V36H6Z"></path></svg></button></div><header class=3D"styles-module_=
+_k3DjKG__header"><svg xmlns=3D"http://www.w3.org/2000/svg" class=3D"styles-=
+module__ml6gfa__logo" height=3D"137px" width=3D"457px" version=3D"1.1" xmln=
+s:xlink=3D"http://www.w3.org/1999/xlink" viewBox=3D"0 0 457 137"><title>git=
+moji</title><g id=3D"gitmoji" fill-rule=3D"evenodd" fill=3D"none"><g id=3D"=
+Logo" transform=3D"translate(-270 -430)"><g id=3D"gitmoji" transform=3D"tra=
+nslate(270 430)"><path d=3D"m17.5 106c0.6 4 2.4 7 5.3 10 2.9 2 6.6 4 11.2 4=
+ 6.1 0 10.7-2 14-5s4.9-8 4.9-15.1v-5.1c-1.5 2.3-3.8 4.4-7.1 6.2-3.2 2-7.5 3=
+-12.6 3-4.7 0-9.1-1-13.1-3-4.1-1.5-7.6-3.9-10.5-7-2.91-3-5.22-6.7-6.9-10.8-=
+1.68-4.2-2.52-8.8-2.52-13.8 0.004-4.7 0.82-9.1 2.45-13.3s3.89-7.9 6.77-11c2=
+.9-3.2 6.3-5.7 10.4-7.5 4-1.8 8.5-2.7 13.4-2.7 5.6 0 10.1 1 13.4 3 3.2 2 5.=
+5 4.2 6.7 6.6v-8.3h18.5v63.2c0 4.6-0.7 9.6-2.1 13.6-1.4 5-3.6 9-6.6 12-3 4-=
+6.8 6-11.5 8s-10.4 4-17 4c-4.9 0-9.3-1-13.3-3-4-1-7.5-3-10.5-5-2.94-3-5.34-=
+5-7.16-8-1.82-4-2.98-7-3.46-10l17.3-5zm19-18.6c4.9 0 8.9-1.6 12-4.9 3.1-3.2=
+ 4.7-7.6 4.7-13.1s-1.7-9.8-4.9-13c-3.3-3.2-7.2-4.8-11.8-4.8-2.4 0-4.7 0.4-6=
+.7 1.2-2.1 0.8-3.9 2-5.4 3.6-1.6 1.6-2.8 3.5-3.6 5.7-0.9 2.2-1.3 4.6-1.3 7.=
+3 0 5.6 1.6 10 4.7 13.2 3.2 3.2 7.3 4.8 12.3 4.8zm54.7 19.6v-70.8h18.8v70.8=
+h-18.8zm-2.3-94c0-3.39 1.1-6.22 3.4-8.53 2.3-2.3 5.1-3.45 8.7-3.45 3 0 6 1.=
+15 8 3.45 2 2.31 4 5.14 4 8.53 0 3.1-2 5.9-4 8.2s-5 3.4-8 3.4c-3.6 0-6.4-1.=
+1-8.7-3.4s-3.4-5.1-3.4-8.2zm65.1 23.2h15v16.9h-15v29.7c0 3.1 1 5.2 2 6.4 2 =
+1.2 4 1.8 7 1.8 1 0 2 0 3-0.1s2-0.3 3-0.5v15.6c-1 1-3 1-4 1-2 1-4 1-7 1-7 0=
+-13-2-17-6-4-3.6-6-9-6-15.9v-33h-12v-16.9h3c4 0 7-1.1 8-3.3 2-2.1 3-4.8 3-8=
+v-9.9h17v21.2zm30 70.8v-70.8h18v8.6c1-1.7 2-3.3 4-4.6 1-1.4 3-2.5 5-3.3 2-0=
+.9 4-1.6 6-2 2-0.5 4-0.8 6-0.8 5 0 9 1 13 3.1 3 2 6 4.9 8 8.7 3-4.3 6-7.3 1=
+0-9.1s8-2.7 12-2.7 7 0.5 10 1.5c3 1.1 6 2.7 8 4.9 3 2.2 4 5 6 8.4 1 3.4 2 7=
+.5 2 12.2v45.9h-19v-42c0-3.9 0-7.1-2-9.6-2-2.6-6-3.8-10-3.8s-7 1.3-10 4.1c-=
+2 2.7-3 6-3 9.8v41.5h-19v-42c0-3.9-1-7.1-3-9.6-2-2.6-5-3.8-10-3.8-4 0-7 1.3=
+-9 4-3 2.7-4 6-4 9.9v41.5h-19zm159-15.3c3 0 5-0.4 7-1.3 2-0.8 4-2.1 6-3.8 1=
+-1.7 3-3.7 4-6.2s1-5.5 1-8.8c0-3.4 0-6.3-1-8.8s-3-4.6-4-6.3c-2-1.7-4-2.9-6-=
+3.8s-4-1.3-7-1.3c-2 0-4 0.4-6 1.3-3 0.9-5 2.1-6 3.8-2 1.7-3 3.8-4 6.3s-2 5.=
+4-2 8.8c0 3.3 1 6.3 2 8.8s2 4.5 4 6.2c1 1.7 3 3 6 3.8 2 0.9 4 1.3 6 1.3zm0-=
+57.7c6 0 11 0.9 15 2.8 5 1.9 9 4.5 12 7.8s6 7.2 8 11.9c2 4.6 2 9.6 2 15.1 0=
+ 5.4 0 10.5-2 15-2 4.6-5 8.5-8 11.9-3 3.5-7 5.5-12 7.5-4 2-9 3-15 3-5 0-10-=
+1-14-3-5-2-9-4-12-7.5-4-3.4-6-7.3-8-11.9-2-4.5-3-9.6-3-15 0-5.5 1-10.5 3-15=
+.1 2-4.7 4-8.6 8-11.9 3-3.3 7-5.9 12-7.8 4-1.9 9-2.8 14-2.8zm53 2.2h19v76.8=
+c0 4-1 7-2 10-1 2-2 5-4 7s-4 4-7 5-6 2-9 2-6-1-8-1c-2-1-3-1-3-1v-16h2c1 1 2=
+ 1 4 1 3 0 5-1 6-3 1-1 2-3 2-6v-74.8zm-3-23.4c0-3.34 1-6.17 4-8.47 2-2.31 5=
+-3.46 8-3.46 3 0.002 6 1.15 9 3.46 2 2.3 3 5.13 3 8.47 0 3.3-1 6-3 8.3-3 2.=
+3-6 3.4-9 3.4s-6-1.1-8-3.4c-3-2.3-4-5-4-8.3zm42 94.2v-70.8h19v70.8h-19zm-2-=
+94c0-3.39 1-6.22 3-8.53 3-2.3 5-3.45 9-3.45 3 0 6 1.15 8 3.45 2 2.31 4 5.14=
+ 4 8.53 0 3.1-2 5.9-4 8.2s-5 3.4-8 3.4c-4 0-6-1.1-9-3.4-2-2.3-3-5.1-3-8.2z"=
+ fill=3D"#000"></path><g id=3D"joy" transform=3D"translate(304 32)"><g id=
+=3D"Group"><circle id=3D"Oval" cy=3D"39" cx=3D"39" r=3D"39" fill=3D"#FFDD67=
+"></circle><path id=3D"Shape" fill=3D"#664E27" d=3D"m62 42.2c-0.5-0.7-1.5-0=
+.6-2.5-0.6h-41c-1 0-2-0.1-2.5 0.6-5.1 6.4 0.9 25.4 23 25.4s28.1-19 23-25.4z=
+"></path><path id=3D"Shape" fill=3D"#4C3526" d=3D"m41.4 51.7c-0.8-0.1-1.9 0=
+.6-1.5 2.5 0.2 0.9 1.6 2.1 1.6 3.6 0 3.1-5 3.1-5 0 0-1.5 1.4-2.7 1.6-3.6 0.=
+4-1.9-0.7-2.6-1.5-2.5-2 0-5.4 2.2-5.4 5.9 0 4.2 3.5 7.6 7.8 7.6s7.8-3.4 7.8=
+-7.6c0-3.7-3.4-5.9-5.4-5.9z"></path><path id=3D"Shape" fill=3D"#FF717F" d=
+=3D"m29 63.3c2.9 1.2 6.2 1.9 10 1.9s7.1-0.7 10-1.9c-2.8-1.4-6.1-2.2-10-2.2s=
+-7.2 0.8-10 2.2z"></path><path id=3D"Shape" fill=3D"#fff" d=3D"m58.4 44.2h-=
+38.8c-2.7 0-2.7 5.2-0.1 5.2h39c2.6 0 2.6-5.2-0.1-5.2z"></path><g id=3D"Shap=
+e" fill=3D"#65B1EF" transform=3D"translate(0 37.7)"><path d=3D"m74.7 7.64c9=
+.5 9.96-3.4 23.6-12.9 13.6-7-7.3-7.3-21.2-7.3-21.2 0 0.013 13.2 0.347 20.2 =
+7.64zm-58.5 13.6c-9.46 10-22.4-3.6-12.9-13.6 7-7.25 20.2-7.59 20.2-7.59 0 0=
+.003-0.3 13.9-7.3 21.2z"></path></g><g id=3D"Shape" fill=3D"#664E27" transf=
+orm=3D"translate(14.3 24.7)"><path d=3D"m20.2 9.97c-2.4-6.64-6.1-9.97-9.7-9=
+.97-3.66 0-7.3 3.33-9.71 9.97-0.243 0.63 1 1.83 1.63 1.23 2.34-2.48 5.14-3.=
+47 8.08-3.47 2.9 0 5.7 0.99 8.1 3.47 0.6 0.6 1.8-0.6 1.6-1.23zm28.4 0c-2.4-=
+6.64-6-9.97-9.7-9.97-3.6 0-7.3 3.33-9.7 9.97-0.2 0.63 1 1.83 1.6 1.23 2.4-2=
+.48 5.2-3.47 8.1-3.47s5.7 0.99 8.1 3.47c0.6 0.6 1.9-0.6 1.6-1.23z"></path><=
+/g></g></g></g></g></g></svg><h2 class=3D"styles-module__k3DjKG__title">An =
+emoji guide for your commit messages</h2><div class=3D"styles-module__k3DjK=
+G__buttons"><a class=3D"styles-module__HFYu5G__button" href=3D"https://gith=
+ub.com/carloscuesta/gitmoji"><svg class=3D"styles-module__ai0mMa__icon icon=
+-star"><use xlink:href=3D"#icon-star"></use></svg>GitHub</a><a class=3D"sty=
+les-module__HFYu5G__button" target=3D"_blank" href=3D"https://twitter.com/i=
+ntent/tweet?text=3Dgitmoji%20%E2%80%93%20An%20%23emoji%20guide%20for%20your=
+%20commit%20messages%20by%20%40crloscuesta%20%F0%9F%98%8D%F0%9F%98%9C&amp;u=
+rl=3Dhttps://gitmoji.dev"><svg class=3D"styles-module__ai0mMa__icon icon-tw=
+itter-x"><use xlink:href=3D"#icon-twitter-x"></use></svg>Share</a></div></h=
+eader><main class=3D"wrap"><main><div class=3D"col-xs-12"><div class=3D"sty=
+les-module__sBeBSa__carbonContainer row center-xs"><div id=3D"carbonads"><s=
+pan>
+
+<span class=3D"carbon-wrap">
+	<a href=3D"https://srv.carbonads.net/ads/click/x/GTND427UCASIV2JYCKYLYKQUC=
+AADC23NCKSI4Z3JCASIEKJJFTAILKJKCVBDC23MF67DCKJUC6YIL5QUCKAIK53KC6SI527UFTAD=
+TK3EHJNCLSIZ" class=3D"carbon-img" target=3D"_blank" rel=3D"noopener sponso=
+red">
+		<img src=3D"https://srv.carbonads.net/static/30242/f3dc6d2c4c4ea6771977d8=
+83b7a49937b048390f" alt=3D"ads via Carbon" border=3D"0" height=3D"100" widt=
+h=3D"130" data-statview=3D"https://srv.carbonads.net/ads/viewable/x/GTND427=
+UCASIV2JYCKYLYKQUCAADC23NCKSI4Z3JCASIEKJJFTAILKJKCVBDC23MF67DCKJUC6YIL5QUCK=
+AIK53KC6SI527UFTADTK3EHJSCL7ZUKHJCY7V?segment=3Dplacement:gitmojidev">
+	</a>
+	<a href=3D"https://srv.carbonads.net/ads/click/x/GTND427UCASIV2JYCKYLYKQUC=
+AADC23NCKSI4Z3JCASIEKJJFTAILKJKCVBDC23MF67DCKJUC6YIL5QUCKAIK53KC6SI527UFTAD=
+TK3EHJNCLSIZ" class=3D"carbon-text" target=3D"_blank" rel=3D"noopener spons=
+ored">
+		Get the Drop. Weekly front-end tools, tips, and resources.
+Plus a free icon pack to get you started.
+	</a>
+</span>
+<a href=3D"http://carbonads.net/?utm_source=3Dgitmojidev&amp;utm_medium=3Da=
+d_via_link&amp;utm_campaign=3Din_unit&amp;utm_term=3Dcarbon" class=3D"carbo=
+n-poweredby" target=3D"_blank" rel=3D"noopener sponsored">ads via Carbon</a=
+>
+<div class=3D"carbon-pixels" style=3D"display: none;"><img src=3D"https://i=
+nsight.adsrvr.org/track/pxl/?adv=3Dt3k9qrj&amp;ct=3D0:djrfa1z&amp;fmt=3D3&a=
+mp;orderid=3D&amp;v=3D" border=3D"0" height=3D"1" width=3D"1" alt=3D"ads vi=
+a Carbon" style=3D"display: none;"><img src=3D"https://ad.doubleclick.net/d=
+dm/activity/src=3D15643656;type=3Dsales;cat=3D408690;qty=3D1;cost=3D[Revenu=
+e];dc_lat=3D;dc_rdid=3D;tag_for_child_directed_treatment=3D;tfua=3D;npa=3D;=
+gdpr=3D$;gdpr_consent=3D$;ord=3D[OrderID]?" border=3D"0" height=3D"1" width=
+=3D"1" alt=3D"ads via Carbon" style=3D"display: none;"><img src=3D"https://=
+sp.analytics.yahoo.com/spp.pl?a=3D10000&amp;.yp=3D10207075&amp;he=3D&amp;hp=
+h=3D&amp;gv=3D[ORDER_VALUE]&amp;orderId=3D[ORDER_ID]&amp;ec=3D[EVENT_CATEGO=
+RY]&amp;ea=3Dfire&amp;el=3D[EVENT_LABEL]" border=3D"0" height=3D"1" width=
+=3D"1" alt=3D"ads via Carbon" style=3D"display: none;"><img src=3D"https://=
+secure.adnxs.com/seg?add=3D37012073&amp;t=3D2" border=3D"0" height=3D"1" wi=
+dth=3D"1" alt=3D"ads via Carbon" style=3D"display: none;"><img src=3D"https=
+://secure.adnxs.com/px?id=3D1777282&amp;t=3D2" border=3D"0" height=3D"1" wi=
+dth=3D"1" alt=3D"ads via Carbon" style=3D"display: none;"><img src=3D"https=
+://segment.prod.bidr.io/associate-segment?buzz_key=3Ddsp&amp;segment_key=3D=
+dsp-19102" border=3D"0" height=3D"1" width=3D"1" alt=3D"ads via Carbon" sty=
+le=3D"display: none;"><img src=3D"https://cnv.event.prod.bidr.io/log/cnv?ta=
+g_id=3D3503&amp;buzz_key=3Ddsp&amp;value=3D&amp;account_id=3D79&amp;order=
+=3D[ORDER]&amp;ord=3D[CACHEBUSTER]" border=3D"0" height=3D"1" width=3D"1" a=
+lt=3D"ads via Carbon" style=3D"display: none;"></div></span></div></div></d=
+iv><div class=3D"row" id=3D"gitmoji-list"><div class=3D"col-xs-12"><div cla=
+ss=3D"styles-module__8QYxOW__container"><div class=3D"styles-module__8QYxOW=
+__inputWrapper"><input class=3D"styles-module__8QYxOW__searchInput" placeho=
+lder=3D"Search your gitmoji..." type=3D"search" name=3D"searchInput" value=
+=3D""><kbd class=3D"styles-module__KkB59q__kbd">Ctrl K</kbd></div><div clas=
+s=3D"styles-module__8QYxOW__actionsContainer"><button class=3D"styles-modul=
+e__z61w9q__button"><svg class=3D"styles-module__ai0mMa__icon icon-dark"><us=
+e xlink:href=3D"#icon-dark"></use></svg></button><div class=3D"styles-modul=
+e__bkqF3q__container"><button class=3D"styles-module__bkqF3q__button styles=
+-module__bkqF3q__buttonActive" disabled=3D""><svg class=3D"styles-module__a=
+i0mMa__icon icon-grid"><use xlink:href=3D"#icon-grid"></use></svg></button>=
+<button class=3D"styles-module__bkqF3q__button "><svg class=3D"styles-modul=
+e__ai0mMa__icon icon-list"><use xlink:href=3D"#icon-list"></use></svg></but=
+ton></div></div></div></div><article style=3D"--emojiColor:#ff7281" class=
+=3D"styles-module__4hiIaW__emoji col-xs-12 col-sm-6 col-md-3"><div class=3D=
+"styles-module__4hiIaW__card "><header class=3D"styles-module__4hiIaW__card=
+Header"><button type=3D"button" class=3D"gitmoji-clipboard-emoji styles-mod=
+ule__4hiIaW__gitmoji" data-clipboard-text=3D"=F0=9F=8E=A8">=F0=9F=8E=A8</bu=
+tton></header><div class=3D"styles-module__4hiIaW__gitmojiInfo"><button cla=
+ss=3D"gitmoji-clipboard-code styles-module__4hiIaW__gitmojiCode" data-clipb=
+oard-text=3D":art:" tabindex=3D"-1" type=3D"button"><code><span>:art:</span=
+></code></button><p>Improve structure / format of the code.</p></div></div>=
+</article><article style=3D"--emojiColor:#40c4ff" class=3D"styles-module__4=
+hiIaW__emoji col-xs-12 col-sm-6 col-md-3"><div class=3D"styles-module__4hiI=
+aW__card "><header class=3D"styles-module__4hiIaW__cardHeader"><button type=
+=3D"button" class=3D"gitmoji-clipboard-emoji styles-module__4hiIaW__gitmoji=
+" data-clipboard-text=3D"=E2=9A=A1=EF=B8=8F">=E2=9A=A1=EF=B8=8F</button></h=
+eader><div class=3D"styles-module__4hiIaW__gitmojiInfo"><button class=3D"gi=
+tmoji-clipboard-code styles-module__4hiIaW__gitmojiCode" data-clipboard-tex=
+t=3D":zap:" tabindex=3D"-1" type=3D"button"><code><span>:zap:</span></code>=
+</button><p>Improve performance.</p></div></div></article><article style=3D=
+"--emojiColor:#ff9d44" class=3D"styles-module__4hiIaW__emoji col-xs-12 col-=
+sm-6 col-md-3"><div class=3D"styles-module__4hiIaW__card "><header class=3D=
+"styles-module__4hiIaW__cardHeader"><button type=3D"button" class=3D"gitmoj=
+i-clipboard-emoji styles-module__4hiIaW__gitmoji" data-clipboard-text=3D"=
+=F0=9F=94=A5">=F0=9F=94=A5</button></header><div class=3D"styles-module__4h=
+iIaW__gitmojiInfo"><button class=3D"gitmoji-clipboard-code styles-module__4=
+hiIaW__gitmojiCode" data-clipboard-text=3D":fire:" tabindex=3D"-1" type=3D"=
+button"><code><span>:fire:</span></code></button><p>Remove code or files.</=
+p></div></div></article><article style=3D"--emojiColor:#8cd842" class=3D"st=
+yles-module__4hiIaW__emoji col-xs-12 col-sm-6 col-md-3"><div class=3D"style=
+s-module__4hiIaW__card "><header class=3D"styles-module__4hiIaW__cardHeader=
+"><button type=3D"button" class=3D"gitmoji-clipboard-emoji styles-module__4=
+hiIaW__gitmoji" data-clipboard-text=3D"=F0=9F=90=9B">=F0=9F=90=9B</button><=
+/header><div class=3D"styles-module__4hiIaW__gitmojiInfo"><button class=3D"=
+gitmoji-clipboard-code styles-module__4hiIaW__gitmojiCode" data-clipboard-t=
+ext=3D":bug:" tabindex=3D"-1" type=3D"button"><code><span>:bug:</span></cod=
+e></button><p>Fix a bug.</p></div></div></article><article style=3D"--emoji=
+Color:#fb584a" class=3D"styles-module__4hiIaW__emoji col-xs-12 col-sm-6 col=
+-md-3"><div class=3D"styles-module__4hiIaW__card "><header class=3D"styles-=
+module__4hiIaW__cardHeader"><button type=3D"button" class=3D"gitmoji-clipbo=
+ard-emoji styles-module__4hiIaW__gitmoji" data-clipboard-text=3D"=F0=9F=9A=
+=91=EF=B8=8F">=F0=9F=9A=91=EF=B8=8F</button></header><div class=3D"styles-m=
+odule__4hiIaW__gitmojiInfo"><button class=3D"gitmoji-clipboard-code styles-=
+module__4hiIaW__gitmojiCode" data-clipboard-text=3D":ambulance:" tabindex=
+=3D"-1" type=3D"button"><code><span>:ambulance:</span></code></button><p>Cr=
+itical hotfix.</p></div></div></article><article style=3D"--emojiColor:#ffe=
+55f" class=3D"styles-module__4hiIaW__emoji col-xs-12 col-sm-6 col-md-3"><di=
+v class=3D"styles-module__4hiIaW__card "><header class=3D"styles-module__4h=
+iIaW__cardHeader"><button type=3D"button" class=3D"gitmoji-clipboard-emoji =
+styles-module__4hiIaW__gitmoji" data-clipboard-text=3D"=E2=9C=A8">=E2=9C=A8=
+</button></header><div class=3D"styles-module__4hiIaW__gitmojiInfo"><button=
+ class=3D"gitmoji-clipboard-code styles-module__4hiIaW__gitmojiCode" data-c=
+lipboard-text=3D":sparkles:" tabindex=3D"-1" type=3D"button"><code><span>:s=
+parkles:</span></code></button><p>Introduce new features.</p></div></div></=
+article><article style=3D"--emojiColor:#00e676" class=3D"styles-module__4hi=
+IaW__emoji col-xs-12 col-sm-6 col-md-3"><div class=3D"styles-module__4hiIaW=
+__card "><header class=3D"styles-module__4hiIaW__cardHeader"><button type=
+=3D"button" class=3D"gitmoji-clipboard-emoji styles-module__4hiIaW__gitmoji=
+" data-clipboard-text=3D"=F0=9F=93=9D">=F0=9F=93=9D</button></header><div c=
+lass=3D"styles-module__4hiIaW__gitmojiInfo"><button class=3D"gitmoji-clipbo=
+ard-code styles-module__4hiIaW__gitmojiCode" data-clipboard-text=3D":memo:"=
+ tabindex=3D"-1" type=3D"button"><code><span>:memo:</span></code></button><=
+p>Add or update documentation.</p></div></div></article><article style=3D"-=
+-emojiColor:#00a9f0" class=3D"styles-module__4hiIaW__emoji col-xs-12 col-sm=
+-6 col-md-3"><div class=3D"styles-module__4hiIaW__card "><header class=3D"s=
+tyles-module__4hiIaW__cardHeader"><button type=3D"button" class=3D"gitmoji-=
+clipboard-emoji styles-module__4hiIaW__gitmoji" data-clipboard-text=3D"=F0=
+=9F=9A=80">=F0=9F=9A=80</button></header><div class=3D"styles-module__4hiIa=
+W__gitmojiInfo"><button class=3D"gitmoji-clipboard-code styles-module__4hiI=
+aW__gitmojiCode" data-clipboard-text=3D":rocket:" tabindex=3D"-1" type=3D"b=
+utton"><code><span>:rocket:</span></code></button><p>Deploy stuff.</p></div=
+></div></article><article style=3D"--emojiColor:#80deea" class=3D"styles-mo=
+dule__4hiIaW__emoji col-xs-12 col-sm-6 col-md-3"><div class=3D"styles-modul=
+e__4hiIaW__card "><header class=3D"styles-module__4hiIaW__cardHeader"><butt=
+on type=3D"button" class=3D"gitmoji-clipboard-emoji styles-module__4hiIaW__=
+gitmoji" data-clipboard-text=3D"=F0=9F=92=84">=F0=9F=92=84</button></header=
+><div class=3D"styles-module__4hiIaW__gitmojiInfo"><button class=3D"gitmoji=
+-clipboard-code styles-module__4hiIaW__gitmojiCode" data-clipboard-text=3D"=
+:lipstick:" tabindex=3D"-1" type=3D"button"><code><span>:lipstick:</span></=
+code></button><p>Add or update the UI and style files.</p></div></div></art=
+icle><article style=3D"--emojiColor:#f74d5f" class=3D"styles-module__4hiIaW=
+__emoji col-xs-12 col-sm-6 col-md-3"><div class=3D"styles-module__4hiIaW__c=
+ard "><header class=3D"styles-module__4hiIaW__cardHeader"><button type=3D"b=
+utton" class=3D"gitmoji-clipboard-emoji styles-module__4hiIaW__gitmoji" dat=
+a-clipboard-text=3D"=F0=9F=8E=89">=F0=9F=8E=89</button></header><div class=
+=3D"styles-module__4hiIaW__gitmojiInfo"><button class=3D"gitmoji-clipboard-=
+code styles-module__4hiIaW__gitmojiCode" data-clipboard-text=3D":tada:" tab=
+index=3D"-1" type=3D"button"><code><span>:tada:</span></code></button><p>Be=
+gin a project.</p></div></div></article><article style=3D"--emojiColor:#77e=
+856" class=3D"styles-module__4hiIaW__emoji col-xs-12 col-sm-6 col-md-3"><di=
+v class=3D"styles-module__4hiIaW__card "><header class=3D"styles-module__4h=
+iIaW__cardHeader"><button type=3D"button" class=3D"gitmoji-clipboard-emoji =
+styles-module__4hiIaW__gitmoji" data-clipboard-text=3D"=E2=9C=85">=E2=9C=85=
+</button></header><div class=3D"styles-module__4hiIaW__gitmojiInfo"><button=
+ class=3D"gitmoji-clipboard-code styles-module__4hiIaW__gitmojiCode" data-c=
+lipboard-text=3D":white_check_mark:" tabindex=3D"-1" type=3D"button"><code>=
+<span>:white</span><span>_<wbr></span><span>check</span><span>_<wbr></span>=
+<span>mark:</span></code></button><p>Add, update, or pass tests.</p></div><=
+/div></article><article style=3D"--emojiColor:#ffce49" class=3D"styles-modu=
+le__4hiIaW__emoji col-xs-12 col-sm-6 col-md-3"><div class=3D"styles-module_=
+_4hiIaW__card "><header class=3D"styles-module__4hiIaW__cardHeader"><button=
+ type=3D"button" class=3D"gitmoji-clipboard-emoji styles-module__4hiIaW__gi=
+tmoji" data-clipboard-text=3D"=F0=9F=94=92=EF=B8=8F">=F0=9F=94=92=EF=B8=8F<=
+/button></header><div class=3D"styles-module__4hiIaW__gitmojiInfo"><button =
+class=3D"gitmoji-clipboard-code styles-module__4hiIaW__gitmojiCode" data-cl=
+ipboard-text=3D":lock:" tabindex=3D"-1" type=3D"button"><code><span>:lock:<=
+/span></code></button><p>Fix security or privacy issues.</p></div></div></a=
+rticle><article style=3D"--emojiColor:#83beec" class=3D"styles-module__4hiI=
+aW__emoji col-xs-12 col-sm-6 col-md-3"><div class=3D"styles-module__4hiIaW_=
+_card "><header class=3D"styles-module__4hiIaW__cardHeader"><button type=3D=
+"button" class=3D"gitmoji-clipboard-emoji styles-module__4hiIaW__gitmoji" d=
+ata-clipboard-text=3D"=F0=9F=94=90">=F0=9F=94=90</button></header><div clas=
+s=3D"styles-module__4hiIaW__gitmojiInfo"><button class=3D"gitmoji-clipboard=
+-code styles-module__4hiIaW__gitmojiCode" data-clipboard-text=3D":closed_lo=
+ck_with_key:" tabindex=3D"-1" type=3D"button"><code><span>:closed</span><sp=
+an>_<wbr></span><span>lock</span><span>_<wbr></span><span>with</span><span>=
+_<wbr></span><span>key:</span></code></button><p>Add or update secrets.</p>=
+</div></div></article><article style=3D"--emojiColor:#80deea" class=3D"styl=
+es-module__4hiIaW__emoji col-xs-12 col-sm-6 col-md-3"><div class=3D"styles-=
+module__4hiIaW__card "><header class=3D"styles-module__4hiIaW__cardHeader">=
+<button type=3D"button" class=3D"gitmoji-clipboard-emoji styles-module__4hi=
+IaW__gitmoji" data-clipboard-text=3D"=F0=9F=94=96">=F0=9F=94=96</button></h=
+eader><div class=3D"styles-module__4hiIaW__gitmojiInfo"><button class=3D"gi=
+tmoji-clipboard-code styles-module__4hiIaW__gitmojiCode" data-clipboard-tex=
+t=3D":bookmark:" tabindex=3D"-1" type=3D"button"><code><span>:bookmark:</sp=
+an></code></button><p>Release / Version tags.</p></div></div></article><art=
+icle style=3D"--emojiColor:#536dfe" class=3D"styles-module__4hiIaW__emoji c=
+ol-xs-12 col-sm-6 col-md-3"><div class=3D"styles-module__4hiIaW__card "><he=
+ader class=3D"styles-module__4hiIaW__cardHeader"><button type=3D"button" cl=
+ass=3D"gitmoji-clipboard-emoji styles-module__4hiIaW__gitmoji" data-clipboa=
+rd-text=3D"=F0=9F=9A=A8">=F0=9F=9A=A8</button></header><div class=3D"styles=
+-module__4hiIaW__gitmojiInfo"><button class=3D"gitmoji-clipboard-code style=
+s-module__4hiIaW__gitmojiCode" data-clipboard-text=3D":rotating_light:" tab=
+index=3D"-1" type=3D"button"><code><span>:rotating</span><span>_<wbr></span=
+><span>light:</span></code></button><p>Fix compiler / linter warnings.</p><=
+/div></div></article><article style=3D"--emojiColor:#ffb74d" class=3D"style=
+s-module__4hiIaW__emoji col-xs-12 col-sm-6 col-md-3"><div class=3D"styles-m=
+odule__4hiIaW__card "><header class=3D"styles-module__4hiIaW__cardHeader"><=
+button type=3D"button" class=3D"gitmoji-clipboard-emoji styles-module__4hiI=
+aW__gitmoji" data-clipboard-text=3D"=F0=9F=9A=A7">=F0=9F=9A=A7</button></he=
+ader><div class=3D"styles-module__4hiIaW__gitmojiInfo"><button class=3D"git=
+moji-clipboard-code styles-module__4hiIaW__gitmojiCode" data-clipboard-text=
+=3D":construction:" tabindex=3D"-1" type=3D"button"><code><span>:constructi=
+on:</span></code></button><p>Work in progress.</p></div></div></article><ar=
+ticle style=3D"--emojiColor:#c5e763" class=3D"styles-module__4hiIaW__emoji =
+col-xs-12 col-sm-6 col-md-3"><div class=3D"styles-module__4hiIaW__card "><h=
+eader class=3D"styles-module__4hiIaW__cardHeader"><button type=3D"button" c=
+lass=3D"gitmoji-clipboard-emoji styles-module__4hiIaW__gitmoji" data-clipbo=
+ard-text=3D"=F0=9F=92=9A">=F0=9F=92=9A</button></header><div class=3D"style=
+s-module__4hiIaW__gitmojiInfo"><button class=3D"gitmoji-clipboard-code styl=
+es-module__4hiIaW__gitmojiCode" data-clipboard-text=3D":green_heart:" tabin=
+dex=3D"-1" type=3D"button"><code><span>:green</span><span>_<wbr></span><spa=
+n>heart:</span></code></button><p>Fix CI Build.</p></div></div></article><a=
+rticle style=3D"--emojiColor:#ef5350" class=3D"styles-module__4hiIaW__emoji=
+ col-xs-12 col-sm-6 col-md-3"><div class=3D"styles-module__4hiIaW__card "><=
+header class=3D"styles-module__4hiIaW__cardHeader"><button type=3D"button" =
+class=3D"gitmoji-clipboard-emoji styles-module__4hiIaW__gitmoji" data-clipb=
+oard-text=3D"=E2=AC=87=EF=B8=8F">=E2=AC=87=EF=B8=8F</button></header><div c=
+lass=3D"styles-module__4hiIaW__gitmojiInfo"><button class=3D"gitmoji-clipbo=
+ard-code styles-module__4hiIaW__gitmojiCode" data-clipboard-text=3D":arrow_=
+down:" tabindex=3D"-1" type=3D"button"><code><span>:arrow</span><span>_<wbr=
+></span><span>down:</span></code></button><p>Downgrade dependencies.</p></d=
+iv></div></article><article style=3D"--emojiColor:#00e676" class=3D"styles-=
+module__4hiIaW__emoji col-xs-12 col-sm-6 col-md-3"><div class=3D"styles-mod=
+ule__4hiIaW__card "><header class=3D"styles-module__4hiIaW__cardHeader"><bu=
+tton type=3D"button" class=3D"gitmoji-clipboard-emoji styles-module__4hiIaW=
+__gitmoji" data-clipboard-text=3D"=E2=AC=86=EF=B8=8F">=E2=AC=86=EF=B8=8F</b=
+utton></header><div class=3D"styles-module__4hiIaW__gitmojiInfo"><button cl=
+ass=3D"gitmoji-clipboard-code styles-module__4hiIaW__gitmojiCode" data-clip=
+board-text=3D":arrow_up:" tabindex=3D"-1" type=3D"button"><code><span>:arro=
+w</span><span>_<wbr></span><span>up:</span></code></button><p>Upgrade depen=
+dencies.</p></div></div></article><article style=3D"--emojiColor:#39c2f1" c=
+lass=3D"styles-module__4hiIaW__emoji col-xs-12 col-sm-6 col-md-3"><div clas=
+s=3D"styles-module__4hiIaW__card "><header class=3D"styles-module__4hiIaW__=
+cardHeader"><button type=3D"button" class=3D"gitmoji-clipboard-emoji styles=
+-module__4hiIaW__gitmoji" data-clipboard-text=3D"=F0=9F=93=8C">=F0=9F=93=8C=
+</button></header><div class=3D"styles-module__4hiIaW__gitmojiInfo"><button=
+ class=3D"gitmoji-clipboard-code styles-module__4hiIaW__gitmojiCode" data-c=
+lipboard-text=3D":pushpin:" tabindex=3D"-1" type=3D"button"><code><span>:pu=
+shpin:</span></code></button><p>Pin dependencies to specific versions.</p><=
+/div></div></article><article style=3D"--emojiColor:#64b5f6" class=3D"style=
+s-module__4hiIaW__emoji col-xs-12 col-sm-6 col-md-3"><div class=3D"styles-m=
+odule__4hiIaW__card "><header class=3D"styles-module__4hiIaW__cardHeader"><=
+button type=3D"button" class=3D"gitmoji-clipboard-emoji styles-module__4hiI=
+aW__gitmoji" data-clipboard-text=3D"=F0=9F=91=B7">=F0=9F=91=B7</button></he=
+ader><div class=3D"styles-module__4hiIaW__gitmojiInfo"><button class=3D"git=
+moji-clipboard-code styles-module__4hiIaW__gitmojiCode" data-clipboard-text=
+=3D":construction_worker:" tabindex=3D"-1" type=3D"button"><code><span>:con=
+struction</span><span>_<wbr></span><span>worker:</span></code></button><p>A=
+dd or update CI build system.</p></div></div></article><article style=3D"--=
+emojiColor:#cedae6" class=3D"styles-module__4hiIaW__emoji col-xs-12 col-sm-=
+6 col-md-3"><div class=3D"styles-module__4hiIaW__card "><header class=3D"st=
+yles-module__4hiIaW__cardHeader"><button type=3D"button" class=3D"gitmoji-c=
+lipboard-emoji styles-module__4hiIaW__gitmoji" data-clipboard-text=3D"=F0=
+=9F=93=88">=F0=9F=93=88</button></header><div class=3D"styles-module__4hiIa=
+W__gitmojiInfo"><button class=3D"gitmoji-clipboard-code styles-module__4hiI=
+aW__gitmojiCode" data-clipboard-text=3D":chart_with_upwards_trend:" tabinde=
+x=3D"-1" type=3D"button"><code><span>:chart</span><span>_<wbr></span><span>=
+with</span><span>_<wbr></span><span>upwards</span><span>_<wbr></span><span>=
+trend:</span></code></button><p>Add or update analytics or track code.</p><=
+/div></div></article><article style=3D"--emojiColor:#77e856" class=3D"style=
+s-module__4hiIaW__emoji col-xs-12 col-sm-6 col-md-3"><div class=3D"styles-m=
+odule__4hiIaW__card "><header class=3D"styles-module__4hiIaW__cardHeader"><=
+button type=3D"button" class=3D"gitmoji-clipboard-emoji styles-module__4hiI=
+aW__gitmoji" data-clipboard-text=3D"=E2=99=BB=EF=B8=8F">=E2=99=BB=EF=B8=8F<=
+/button></header><div class=3D"styles-module__4hiIaW__gitmojiInfo"><button =
+class=3D"gitmoji-clipboard-code styles-module__4hiIaW__gitmojiCode" data-cl=
+ipboard-text=3D":recycle:" tabindex=3D"-1" type=3D"button"><code><span>:rec=
+ycle:</span></code></button><p>Refactor code.</p></div></div></article><art=
+icle style=3D"--emojiColor:#00e676" class=3D"styles-module__4hiIaW__emoji c=
+ol-xs-12 col-sm-6 col-md-3"><div class=3D"styles-module__4hiIaW__card "><he=
+ader class=3D"styles-module__4hiIaW__cardHeader"><button type=3D"button" cl=
+ass=3D"gitmoji-clipboard-emoji styles-module__4hiIaW__gitmoji" data-clipboa=
+rd-text=3D"=E2=9E=95">=E2=9E=95</button></header><div class=3D"styles-modul=
+e__4hiIaW__gitmojiInfo"><button class=3D"gitmoji-clipboard-code styles-modu=
+le__4hiIaW__gitmojiCode" data-clipboard-text=3D":heavy_plus_sign:" tabindex=
+=3D"-1" type=3D"button"><code><span>:heavy</span><span>_<wbr></span><span>p=
+lus</span><span>_<wbr></span><span>sign:</span></code></button><p>Add a dep=
+endency.</p></div></div></article><article style=3D"--emojiColor:#ef5350" c=
+lass=3D"styles-module__4hiIaW__emoji col-xs-12 col-sm-6 col-md-3"><div clas=
+s=3D"styles-module__4hiIaW__card "><header class=3D"styles-module__4hiIaW__=
+cardHeader"><button type=3D"button" class=3D"gitmoji-clipboard-emoji styles=
+-module__4hiIaW__gitmoji" data-clipboard-text=3D"=E2=9E=96">=E2=9E=96</butt=
+on></header><div class=3D"styles-module__4hiIaW__gitmojiInfo"><button class=
+=3D"gitmoji-clipboard-code styles-module__4hiIaW__gitmojiCode" data-clipboa=
+rd-text=3D":heavy_minus_sign:" tabindex=3D"-1" type=3D"button"><code><span>=
+:heavy</span><span>_<wbr></span><span>minus</span><span>_<wbr></span><span>=
+sign:</span></code></button><p>Remove a dependency.</p></div></div></articl=
+e><article style=3D"--emojiColor:#ffc400" class=3D"styles-module__4hiIaW__e=
+moji col-xs-12 col-sm-6 col-md-3"><div class=3D"styles-module__4hiIaW__card=
+ "><header class=3D"styles-module__4hiIaW__cardHeader"><button type=3D"butt=
+on" class=3D"gitmoji-clipboard-emoji styles-module__4hiIaW__gitmoji" data-c=
+lipboard-text=3D"=F0=9F=94=A7">=F0=9F=94=A7</button></header><div class=3D"=
+styles-module__4hiIaW__gitmojiInfo"><button class=3D"gitmoji-clipboard-code=
+ styles-module__4hiIaW__gitmojiCode" data-clipboard-text=3D":wrench:" tabin=
+dex=3D"-1" type=3D"button"><code><span>:wrench:</span></code></button><p>Ad=
+d or update configuration files.</p></div></div></article><article style=3D=
+"--emojiColor:#ffc400" class=3D"styles-module__4hiIaW__emoji col-xs-12 col-=
+sm-6 col-md-3"><div class=3D"styles-module__4hiIaW__card "><header class=3D=
+"styles-module__4hiIaW__cardHeader"><button type=3D"button" class=3D"gitmoj=
+i-clipboard-emoji styles-module__4hiIaW__gitmoji" data-clipboard-text=3D"=
+=F0=9F=94=A8">=F0=9F=94=A8</button></header><div class=3D"styles-module__4h=
+iIaW__gitmojiInfo"><button class=3D"gitmoji-clipboard-code styles-module__4=
+hiIaW__gitmojiCode" data-clipboard-text=3D":hammer:" tabindex=3D"-1" type=
+=3D"button"><code><span>:hammer:</span></code></button><p>Add or update dev=
+elopment scripts.</p></div></div></article><article style=3D"--emojiColor:#=
+e7f4ff" class=3D"styles-module__4hiIaW__emoji col-xs-12 col-sm-6 col-md-3">=
+<div class=3D"styles-module__4hiIaW__card "><header class=3D"styles-module_=
+_4hiIaW__cardHeader"><button type=3D"button" class=3D"gitmoji-clipboard-emo=
+ji styles-module__4hiIaW__gitmoji" data-clipboard-text=3D"=F0=9F=8C=90">=F0=
+=9F=8C=90</button></header><div class=3D"styles-module__4hiIaW__gitmojiInfo=
+"><button class=3D"gitmoji-clipboard-code styles-module__4hiIaW__gitmojiCod=
+e" data-clipboard-text=3D":globe_with_meridians:" tabindex=3D"-1" type=3D"b=
+utton"><code><span>:globe</span><span>_<wbr></span><span>with</span><span>_=
+<wbr></span><span>meridians:</span></code></button><p>Internationalization =
+and localization.</p></div></div></article><article style=3D"--emojiColor:#=
+ffce49" class=3D"styles-module__4hiIaW__emoji col-xs-12 col-sm-6 col-md-3">=
+<div class=3D"styles-module__4hiIaW__card "><header class=3D"styles-module_=
+_4hiIaW__cardHeader"><button type=3D"button" class=3D"gitmoji-clipboard-emo=
+ji styles-module__4hiIaW__gitmoji" data-clipboard-text=3D"=E2=9C=8F=EF=B8=
+=8F">=E2=9C=8F=EF=B8=8F</button></header><div class=3D"styles-module__4hiIa=
+W__gitmojiInfo"><button class=3D"gitmoji-clipboard-code styles-module__4hiI=
+aW__gitmojiCode" data-clipboard-text=3D":pencil2:" tabindex=3D"-1" type=3D"=
+button"><code><span>:pencil2:</span></code></button><p>Fix typos.</p></div>=
+</div></article><article style=3D"--emojiColor:#a78674" class=3D"styles-mod=
+ule__4hiIaW__emoji col-xs-12 col-sm-6 col-md-3"><div class=3D"styles-module=
+__4hiIaW__card "><header class=3D"styles-module__4hiIaW__cardHeader"><butto=
+n type=3D"button" class=3D"gitmoji-clipboard-emoji styles-module__4hiIaW__g=
+itmoji" data-clipboard-text=3D"=F0=9F=92=A9">=F0=9F=92=A9</button></header>=
+<div class=3D"styles-module__4hiIaW__gitmojiInfo"><button class=3D"gitmoji-=
+clipboard-code styles-module__4hiIaW__gitmojiCode" data-clipboard-text=3D":=
+poop:" tabindex=3D"-1" type=3D"button"><code><span>:poop:</span></code></bu=
+tton><p>Write bad code that needs to be improved.</p></div></div></article>=
+<article style=3D"--emojiColor:#56d1d8" class=3D"styles-module__4hiIaW__emo=
+ji col-xs-12 col-sm-6 col-md-3"><div class=3D"styles-module__4hiIaW__card "=
+><header class=3D"styles-module__4hiIaW__cardHeader"><button type=3D"button=
+" class=3D"gitmoji-clipboard-emoji styles-module__4hiIaW__gitmoji" data-cli=
+pboard-text=3D"=E2=8F=AA=EF=B8=8F">=E2=8F=AA=EF=B8=8F</button></header><div=
+ class=3D"styles-module__4hiIaW__gitmojiInfo"><button class=3D"gitmoji-clip=
+board-code styles-module__4hiIaW__gitmojiCode" data-clipboard-text=3D":rewi=
+nd:" tabindex=3D"-1" type=3D"button"><code><span>:rewind:</span></code></bu=
+tton><p>Revert changes.</p></div></div></article><article style=3D"--emojiC=
+olor:#56d1d8" class=3D"styles-module__4hiIaW__emoji col-xs-12 col-sm-6 col-=
+md-3"><div class=3D"styles-module__4hiIaW__card "><header class=3D"styles-m=
+odule__4hiIaW__cardHeader"><button type=3D"button" class=3D"gitmoji-clipboa=
+rd-emoji styles-module__4hiIaW__gitmoji" data-clipboard-text=3D"=F0=9F=94=
+=80">=F0=9F=94=80</button></header><div class=3D"styles-module__4hiIaW__git=
+mojiInfo"><button class=3D"gitmoji-clipboard-code styles-module__4hiIaW__gi=
+tmojiCode" data-clipboard-text=3D":twisted_rightwards_arrows:" tabindex=3D"=
+-1" type=3D"button"><code><span>:twisted</span><span>_<wbr></span><span>rig=
+htwards</span><span>_<wbr></span><span>arrows:</span></code></button><p>Mer=
+ge branches.</p></div></div></article><article style=3D"--emojiColor:#fdd0a=
+e" class=3D"styles-module__4hiIaW__emoji col-xs-12 col-sm-6 col-md-3"><div =
+class=3D"styles-module__4hiIaW__card "><header class=3D"styles-module__4hiI=
+aW__cardHeader"><button type=3D"button" class=3D"gitmoji-clipboard-emoji st=
+yles-module__4hiIaW__gitmoji" data-clipboard-text=3D"=F0=9F=93=A6=EF=B8=8F"=
+>=F0=9F=93=A6=EF=B8=8F</button></header><div class=3D"styles-module__4hiIaW=
+__gitmojiInfo"><button class=3D"gitmoji-clipboard-code styles-module__4hiIa=
+W__gitmojiCode" data-clipboard-text=3D":package:" tabindex=3D"-1" type=3D"b=
+utton"><code><span>:package:</span></code></button><p>Add or update compile=
+d files or packages.</p></div></div></article><article style=3D"--emojiColo=
+r:#c5e763" class=3D"styles-module__4hiIaW__emoji col-xs-12 col-sm-6 col-md-=
+3"><div class=3D"styles-module__4hiIaW__card "><header class=3D"styles-modu=
+le__4hiIaW__cardHeader"><button type=3D"button" class=3D"gitmoji-clipboard-=
+emoji styles-module__4hiIaW__gitmoji" data-clipboard-text=3D"=F0=9F=91=BD=
+=EF=B8=8F">=F0=9F=91=BD=EF=B8=8F</button></header><div class=3D"styles-modu=
+le__4hiIaW__gitmojiInfo"><button class=3D"gitmoji-clipboard-code styles-mod=
+ule__4hiIaW__gitmojiCode" data-clipboard-text=3D":alien:" tabindex=3D"-1" t=
+ype=3D"button"><code><span>:alien:</span></code></button><p>Update code due=
+ to external API changes.</p></div></div></article><article style=3D"--emoj=
+iColor:#ef584a" class=3D"styles-module__4hiIaW__emoji col-xs-12 col-sm-6 co=
+l-md-3"><div class=3D"styles-module__4hiIaW__card "><header class=3D"styles=
+-module__4hiIaW__cardHeader"><button type=3D"button" class=3D"gitmoji-clipb=
+oard-emoji styles-module__4hiIaW__gitmoji" data-clipboard-text=3D"=F0=9F=9A=
+=9A">=F0=9F=9A=9A</button></header><div class=3D"styles-module__4hiIaW__git=
+mojiInfo"><button class=3D"gitmoji-clipboard-code styles-module__4hiIaW__gi=
+tmojiCode" data-clipboard-text=3D":truck:" tabindex=3D"-1" type=3D"button">=
+<code><span>:truck:</span></code></button><p>Move or rename resources (e.g.=
+: files, paths, routes).</p></div></div></article><article style=3D"--emoji=
+Color:#d9e3e8" class=3D"styles-module__4hiIaW__emoji col-xs-12 col-sm-6 col=
+-md-3"><div class=3D"styles-module__4hiIaW__card "><header class=3D"styles-=
+module__4hiIaW__cardHeader"><button type=3D"button" class=3D"gitmoji-clipbo=
+ard-emoji styles-module__4hiIaW__gitmoji" data-clipboard-text=3D"=F0=9F=93=
+=84">=F0=9F=93=84</button></header><div class=3D"styles-module__4hiIaW__git=
+mojiInfo"><button class=3D"gitmoji-clipboard-code styles-module__4hiIaW__gi=
+tmojiCode" data-clipboard-text=3D":page_facing_up:" tabindex=3D"-1" type=3D=
+"button"><code><span>:page</span><span>_<wbr></span><span>facing</span><spa=
+n>_<wbr></span><span>up:</span></code></button><p>Add or update license.</p=
+></div></div></article><article style=3D"--emojiColor:#f94f28" class=3D"sty=
+les-module__4hiIaW__emoji col-xs-12 col-sm-6 col-md-3"><div class=3D"styles=
+-module__4hiIaW__card "><header class=3D"styles-module__4hiIaW__cardHeader"=
+><button type=3D"button" class=3D"gitmoji-clipboard-emoji styles-module__4h=
+iIaW__gitmoji" data-clipboard-text=3D"=F0=9F=92=A5">=F0=9F=92=A5</button></=
+header><div class=3D"styles-module__4hiIaW__gitmojiInfo"><button class=3D"g=
+itmoji-clipboard-code styles-module__4hiIaW__gitmojiCode" data-clipboard-te=
+xt=3D":boom:" tabindex=3D"-1" type=3D"button"><code><span>:boom:</span></co=
+de></button><p>Introduce breaking changes.</p></div></div></article><articl=
+e style=3D"--emojiColor:#ff5864" class=3D"styles-module__4hiIaW__emoji col-=
+xs-12 col-sm-6 col-md-3"><div class=3D"styles-module__4hiIaW__card "><heade=
+r class=3D"styles-module__4hiIaW__cardHeader"><button type=3D"button" class=
+=3D"gitmoji-clipboard-emoji styles-module__4hiIaW__gitmoji" data-clipboard-=
+text=3D"=F0=9F=8D=B1">=F0=9F=8D=B1</button></header><div class=3D"styles-mo=
+dule__4hiIaW__gitmojiInfo"><button class=3D"gitmoji-clipboard-code styles-m=
+odule__4hiIaW__gitmojiCode" data-clipboard-text=3D":bento:" tabindex=3D"-1"=
+ type=3D"button"><code><span>:bento:</span></code></button><p>Add or update=
+ assets.</p></div></div></article><article style=3D"--emojiColor:#00b1fb" c=
+lass=3D"styles-module__4hiIaW__emoji col-xs-12 col-sm-6 col-md-3"><div clas=
+s=3D"styles-module__4hiIaW__card "><header class=3D"styles-module__4hiIaW__=
+cardHeader"><button type=3D"button" class=3D"gitmoji-clipboard-emoji styles=
+-module__4hiIaW__gitmoji" data-clipboard-text=3D"=E2=99=BF=EF=B8=8F">=E2=99=
+=BF=EF=B8=8F</button></header><div class=3D"styles-module__4hiIaW__gitmojiI=
+nfo"><button class=3D"gitmoji-clipboard-code styles-module__4hiIaW__gitmoji=
+Code" data-clipboard-text=3D":wheelchair:" tabindex=3D"-1" type=3D"button">=
+<code><span>:wheelchair:</span></code></button><p>Improve accessibility.</p=
+></div></div></article><article style=3D"--emojiColor:#ffce49" class=3D"sty=
+les-module__4hiIaW__emoji col-xs-12 col-sm-6 col-md-3"><div class=3D"styles=
+-module__4hiIaW__card "><header class=3D"styles-module__4hiIaW__cardHeader"=
+><button type=3D"button" class=3D"gitmoji-clipboard-emoji styles-module__4h=
+iIaW__gitmoji" data-clipboard-text=3D"=F0=9F=92=A1">=F0=9F=92=A1</button></=
+header><div class=3D"styles-module__4hiIaW__gitmojiInfo"><button class=3D"g=
+itmoji-clipboard-code styles-module__4hiIaW__gitmojiCode" data-clipboard-te=
+xt=3D":bulb:" tabindex=3D"-1" type=3D"button"><code><span>:bulb:</span></co=
+de></button><p>Add or update comments in source code.</p></div></div></arti=
+cle><article style=3D"--emojiColor:#fbb64b" class=3D"styles-module__4hiIaW_=
+_emoji col-xs-12 col-sm-6 col-md-3"><div class=3D"styles-module__4hiIaW__ca=
+rd "><header class=3D"styles-module__4hiIaW__cardHeader"><button type=3D"bu=
+tton" class=3D"gitmoji-clipboard-emoji styles-module__4hiIaW__gitmoji" data=
+-clipboard-text=3D"=F0=9F=8D=BB">=F0=9F=8D=BB</button></header><div class=
+=3D"styles-module__4hiIaW__gitmojiInfo"><button class=3D"gitmoji-clipboard-=
+code styles-module__4hiIaW__gitmojiCode" data-clipboard-text=3D":beers:" ta=
+bindex=3D"-1" type=3D"button"><code><span>:beers:</span></code></button><p>=
+Write code drunkenly.</p></div></div></article><article style=3D"--emojiCol=
+or:#cedae6" class=3D"styles-module__4hiIaW__emoji col-xs-12 col-sm-6 col-md=
+-3"><div class=3D"styles-module__4hiIaW__card "><header class=3D"styles-mod=
+ule__4hiIaW__cardHeader"><button type=3D"button" class=3D"gitmoji-clipboard=
+-emoji styles-module__4hiIaW__gitmoji" data-clipboard-text=3D"=F0=9F=92=AC"=
+>=F0=9F=92=AC</button></header><div class=3D"styles-module__4hiIaW__gitmoji=
+Info"><button class=3D"gitmoji-clipboard-code styles-module__4hiIaW__gitmoj=
+iCode" data-clipboard-text=3D":speech_balloon:" tabindex=3D"-1" type=3D"but=
+ton"><code><span>:speech</span><span>_<wbr></span><span>balloon:</span></co=
+de></button><p>Add or update text and literals.</p></div></div></article><a=
+rticle style=3D"--emojiColor:#c5e763" class=3D"styles-module__4hiIaW__emoji=
+ col-xs-12 col-sm-6 col-md-3"><div class=3D"styles-module__4hiIaW__card "><=
+header class=3D"styles-module__4hiIaW__cardHeader"><button type=3D"button" =
+class=3D"gitmoji-clipboard-emoji styles-module__4hiIaW__gitmoji" data-clipb=
+oard-text=3D"=F0=9F=97=83=EF=B8=8F">=F0=9F=97=83=EF=B8=8F</button></header>=
+<div class=3D"styles-module__4hiIaW__gitmojiInfo"><button class=3D"gitmoji-=
+clipboard-code styles-module__4hiIaW__gitmojiCode" data-clipboard-text=3D":=
+card_file_box:" tabindex=3D"-1" type=3D"button"><code><span>:card</span><sp=
+an>_<wbr></span><span>file</span><span>_<wbr></span><span>box:</span></code=
+></button><p>Perform database related changes.</p></div></div></article><ar=
+ticle style=3D"--emojiColor:#23b4d2" class=3D"styles-module__4hiIaW__emoji =
+col-xs-12 col-sm-6 col-md-3"><div class=3D"styles-module__4hiIaW__card "><h=
+eader class=3D"styles-module__4hiIaW__cardHeader"><button type=3D"button" c=
+lass=3D"gitmoji-clipboard-emoji styles-module__4hiIaW__gitmoji" data-clipbo=
+ard-text=3D"=F0=9F=94=8A">=F0=9F=94=8A</button></header><div class=3D"style=
+s-module__4hiIaW__gitmojiInfo"><button class=3D"gitmoji-clipboard-code styl=
+es-module__4hiIaW__gitmojiCode" data-clipboard-text=3D":loud_sound:" tabind=
+ex=3D"-1" type=3D"button"><code><span>:loud</span><span>_<wbr></span><span>=
+sound:</span></code></button><p>Add or update logs.</p></div></div></articl=
+e><article style=3D"--emojiColor:#e6ebef" class=3D"styles-module__4hiIaW__e=
+moji col-xs-12 col-sm-6 col-md-3"><div class=3D"styles-module__4hiIaW__card=
+ "><header class=3D"styles-module__4hiIaW__cardHeader"><button type=3D"butt=
+on" class=3D"gitmoji-clipboard-emoji styles-module__4hiIaW__gitmoji" data-c=
+lipboard-text=3D"=F0=9F=94=87">=F0=9F=94=87</button></header><div class=3D"=
+styles-module__4hiIaW__gitmojiInfo"><button class=3D"gitmoji-clipboard-code=
+ styles-module__4hiIaW__gitmojiCode" data-clipboard-text=3D":mute:" tabinde=
+x=3D"-1" type=3D"button"><code><span>:mute:</span></code></button><p>Remove=
+ logs.</p></div></div></article><article style=3D"--emojiColor:#ffce49" cla=
+ss=3D"styles-module__4hiIaW__emoji col-xs-12 col-sm-6 col-md-3"><div class=
+=3D"styles-module__4hiIaW__card "><header class=3D"styles-module__4hiIaW__c=
+ardHeader"><button type=3D"button" class=3D"gitmoji-clipboard-emoji styles-=
+module__4hiIaW__gitmoji" data-clipboard-text=3D"=F0=9F=91=A5">=F0=9F=91=A5<=
+/button></header><div class=3D"styles-module__4hiIaW__gitmojiInfo"><button =
+class=3D"gitmoji-clipboard-code styles-module__4hiIaW__gitmojiCode" data-cl=
+ipboard-text=3D":busts_in_silhouette:" tabindex=3D"-1" type=3D"button"><cod=
+e><span>:busts</span><span>_<wbr></span><span>in</span><span>_<wbr></span><=
+span>silhouette:</span></code></button><p>Add or update contributor(s).</p>=
+</div></div></article><article style=3D"--emojiColor:#ffce49" class=3D"styl=
+es-module__4hiIaW__emoji col-xs-12 col-sm-6 col-md-3"><div class=3D"styles-=
+module__4hiIaW__card "><header class=3D"styles-module__4hiIaW__cardHeader">=
+<button type=3D"button" class=3D"gitmoji-clipboard-emoji styles-module__4hi=
+IaW__gitmoji" data-clipboard-text=3D"=F0=9F=9A=B8">=F0=9F=9A=B8</button></h=
+eader><div class=3D"styles-module__4hiIaW__gitmojiInfo"><button class=3D"gi=
+tmoji-clipboard-code styles-module__4hiIaW__gitmojiCode" data-clipboard-tex=
+t=3D":children_crossing:" tabindex=3D"-1" type=3D"button"><code><span>:chil=
+dren</span><span>_<wbr></span><span>crossing:</span></code></button><p>Impr=
+ove user experience / usability.</p></div></div></article><article style=3D=
+"--emojiColor:#ffe55f" class=3D"styles-module__4hiIaW__emoji col-xs-12 col-=
+sm-6 col-md-3"><div class=3D"styles-module__4hiIaW__card "><header class=3D=
+"styles-module__4hiIaW__cardHeader"><button type=3D"button" class=3D"gitmoj=
+i-clipboard-emoji styles-module__4hiIaW__gitmoji" data-clipboard-text=3D"=
+=F0=9F=8F=97=EF=B8=8F">=F0=9F=8F=97=EF=B8=8F</button></header><div class=3D=
+"styles-module__4hiIaW__gitmojiInfo"><button class=3D"gitmoji-clipboard-cod=
+e styles-module__4hiIaW__gitmojiCode" data-clipboard-text=3D":building_cons=
+truction:" tabindex=3D"-1" type=3D"button"><code><span>:building</span><spa=
+n>_<wbr></span><span>construction:</span></code></button><p>Make architectu=
+ral changes.</p></div></div></article><article style=3D"--emojiColor:#40c4f=
+f" class=3D"styles-module__4hiIaW__emoji col-xs-12 col-sm-6 col-md-3"><div =
+class=3D"styles-module__4hiIaW__card "><header class=3D"styles-module__4hiI=
+aW__cardHeader"><button type=3D"button" class=3D"gitmoji-clipboard-emoji st=
+yles-module__4hiIaW__gitmoji" data-clipboard-text=3D"=F0=9F=93=B1">=F0=9F=
+=93=B1</button></header><div class=3D"styles-module__4hiIaW__gitmojiInfo"><=
+button class=3D"gitmoji-clipboard-code styles-module__4hiIaW__gitmojiCode" =
+data-clipboard-text=3D":iphone:" tabindex=3D"-1" type=3D"button"><code><spa=
+n>:iphone:</span></code></button><p>Work on responsive design.</p></div></d=
+iv></article><article style=3D"--emojiColor:#ff7281" class=3D"styles-module=
+__4hiIaW__emoji col-xs-12 col-sm-6 col-md-3"><div class=3D"styles-module__4=
+hiIaW__card "><header class=3D"styles-module__4hiIaW__cardHeader"><button t=
+ype=3D"button" class=3D"gitmoji-clipboard-emoji styles-module__4hiIaW__gitm=
+oji" data-clipboard-text=3D"=F0=9F=A4=A1">=F0=9F=A4=A1</button></header><di=
+v class=3D"styles-module__4hiIaW__gitmojiInfo"><button class=3D"gitmoji-cli=
+pboard-code styles-module__4hiIaW__gitmojiCode" data-clipboard-text=3D":clo=
+wn_face:" tabindex=3D"-1" type=3D"button"><code><span>:clown</span><span>_<=
+wbr></span><span>face:</span></code></button><p>Mock things.</p></div></div=
+></article><article style=3D"--emojiColor:#77e856" class=3D"styles-module__=
+4hiIaW__emoji col-xs-12 col-sm-6 col-md-3"><div class=3D"styles-module__4hi=
+IaW__card "><header class=3D"styles-module__4hiIaW__cardHeader"><button typ=
+e=3D"button" class=3D"gitmoji-clipboard-emoji styles-module__4hiIaW__gitmoj=
+i" data-clipboard-text=3D"=F0=9F=A5=9A">=F0=9F=A5=9A</button></header><div =
+class=3D"styles-module__4hiIaW__gitmojiInfo"><button class=3D"gitmoji-clipb=
+oard-code styles-module__4hiIaW__gitmojiCode" data-clipboard-text=3D":egg:"=
+ tabindex=3D"-1" type=3D"button"><code><span>:egg:</span></code></button><p=
+>Add or update an easter egg.</p></div></div></article><article style=3D"--=
+emojiColor:#8bdfe7" class=3D"styles-module__4hiIaW__emoji col-xs-12 col-sm-=
+6 col-md-3"><div class=3D"styles-module__4hiIaW__card "><header class=3D"st=
+yles-module__4hiIaW__cardHeader"><button type=3D"button" class=3D"gitmoji-c=
+lipboard-emoji styles-module__4hiIaW__gitmoji" data-clipboard-text=3D"=F0=
+=9F=99=88">=F0=9F=99=88</button></header><div class=3D"styles-module__4hiIa=
+W__gitmojiInfo"><button class=3D"gitmoji-clipboard-code styles-module__4hiI=
+aW__gitmojiCode" data-clipboard-text=3D":see_no_evil:" tabindex=3D"-1" type=
+=3D"button"><code><span>:see</span><span>_<wbr></span><span>no</span><span>=
+_<wbr></span><span>evil:</span></code></button><p>Add or update a .gitignor=
+e file.</p></div></div></article><article style=3D"--emojiColor:#00a9f0" cl=
+ass=3D"styles-module__4hiIaW__emoji col-xs-12 col-sm-6 col-md-3"><div class=
+=3D"styles-module__4hiIaW__card "><header class=3D"styles-module__4hiIaW__c=
+ardHeader"><button type=3D"button" class=3D"gitmoji-clipboard-emoji styles-=
+module__4hiIaW__gitmoji" data-clipboard-text=3D"=F0=9F=93=B8">=F0=9F=93=B8<=
+/button></header><div class=3D"styles-module__4hiIaW__gitmojiInfo"><button =
+class=3D"gitmoji-clipboard-code styles-module__4hiIaW__gitmojiCode" data-cl=
+ipboard-text=3D":camera_flash:" tabindex=3D"-1" type=3D"button"><code><span=
+>:camera</span><span>_<wbr></span><span>flash:</span></code></button><p>Add=
+ or update snapshots.</p></div></div></article><article style=3D"--emojiCol=
+or:#7f39fb" class=3D"styles-module__4hiIaW__emoji col-xs-12 col-sm-6 col-md=
+-3"><div class=3D"styles-module__4hiIaW__card "><header class=3D"styles-mod=
+ule__4hiIaW__cardHeader"><button type=3D"button" class=3D"gitmoji-clipboard=
+-emoji styles-module__4hiIaW__gitmoji" data-clipboard-text=3D"=E2=9A=97=EF=
+=B8=8F">=E2=9A=97=EF=B8=8F</button></header><div class=3D"styles-module__4h=
+iIaW__gitmojiInfo"><button class=3D"gitmoji-clipboard-code styles-module__4=
+hiIaW__gitmojiCode" data-clipboard-text=3D":alembic:" tabindex=3D"-1" type=
+=3D"button"><code><span>:alembic:</span></code></button><p>Perform experime=
+nts.</p></div></div></article><article style=3D"--emojiColor:#ffe55f" class=
+=3D"styles-module__4hiIaW__emoji col-xs-12 col-sm-6 col-md-3"><div class=3D=
+"styles-module__4hiIaW__card "><header class=3D"styles-module__4hiIaW__card=
+Header"><button type=3D"button" class=3D"gitmoji-clipboard-emoji styles-mod=
+ule__4hiIaW__gitmoji" data-clipboard-text=3D"=F0=9F=94=8D=EF=B8=8F">=F0=9F=
+=94=8D=EF=B8=8F</button></header><div class=3D"styles-module__4hiIaW__gitmo=
+jiInfo"><button class=3D"gitmoji-clipboard-code styles-module__4hiIaW__gitm=
+ojiCode" data-clipboard-text=3D":mag:" tabindex=3D"-1" type=3D"button"><cod=
+e><span>:mag:</span></code></button><p>Improve SEO.</p></div></div></articl=
+e><article style=3D"--emojiColor:#cb63e6" class=3D"styles-module__4hiIaW__e=
+moji col-xs-12 col-sm-6 col-md-3"><div class=3D"styles-module__4hiIaW__card=
+ "><header class=3D"styles-module__4hiIaW__cardHeader"><button type=3D"butt=
+on" class=3D"gitmoji-clipboard-emoji styles-module__4hiIaW__gitmoji" data-c=
+lipboard-text=3D"=F0=9F=8F=B7=EF=B8=8F">=F0=9F=8F=B7=EF=B8=8F</button></hea=
+der><div class=3D"styles-module__4hiIaW__gitmojiInfo"><button class=3D"gitm=
+oji-clipboard-code styles-module__4hiIaW__gitmojiCode" data-clipboard-text=
+=3D":label:" tabindex=3D"-1" type=3D"button"><code><span>:label:</span></co=
+de></button><p>Add or update types.</p></div></div></article><article style=
+=3D"--emojiColor:#c5e763" class=3D"styles-module__4hiIaW__emoji col-xs-12 c=
+ol-sm-6 col-md-3"><div class=3D"styles-module__4hiIaW__card "><header class=
+=3D"styles-module__4hiIaW__cardHeader"><button type=3D"button" class=3D"git=
+moji-clipboard-emoji styles-module__4hiIaW__gitmoji" data-clipboard-text=3D=
+"=F0=9F=8C=B1">=F0=9F=8C=B1</button></header><div class=3D"styles-module__4=
+hiIaW__gitmojiInfo"><button class=3D"gitmoji-clipboard-code styles-module__=
+4hiIaW__gitmojiCode" data-clipboard-text=3D":seedling:" tabindex=3D"-1" typ=
+e=3D"button"><code><span>:seedling:</span></code></button><p>Add or update =
+seed files.</p></div></div></article><article style=3D"--emojiColor:#ffce49=
+" class=3D"styles-module__4hiIaW__emoji col-xs-12 col-sm-6 col-md-3"><div c=
+lass=3D"styles-module__4hiIaW__card "><header class=3D"styles-module__4hiIa=
+W__cardHeader"><button type=3D"button" class=3D"gitmoji-clipboard-emoji sty=
+les-module__4hiIaW__gitmoji" data-clipboard-text=3D"=F0=9F=9A=A9">=F0=9F=9A=
+=A9</button></header><div class=3D"styles-module__4hiIaW__gitmojiInfo"><but=
+ton class=3D"gitmoji-clipboard-code styles-module__4hiIaW__gitmojiCode" dat=
+a-clipboard-text=3D":triangular_flag_on_post:" tabindex=3D"-1" type=3D"butt=
+on"><code><span>:triangular</span><span>_<wbr></span><span>flag</span><span=
+>_<wbr></span><span>on</span><span>_<wbr></span><span>post:</span></code></=
+button><p>Add, update, or remove feature flags.</p></div></div></article><a=
+rticle style=3D"--emojiColor:#c7cb12" class=3D"styles-module__4hiIaW__emoji=
+ col-xs-12 col-sm-6 col-md-3"><div class=3D"styles-module__4hiIaW__card "><=
+header class=3D"styles-module__4hiIaW__cardHeader"><button type=3D"button" =
+class=3D"gitmoji-clipboard-emoji styles-module__4hiIaW__gitmoji" data-clipb=
+oard-text=3D"=F0=9F=A5=85">=F0=9F=A5=85</button></header><div class=3D"styl=
+es-module__4hiIaW__gitmojiInfo"><button class=3D"gitmoji-clipboard-code sty=
+les-module__4hiIaW__gitmojiCode" data-clipboard-text=3D":goal_net:" tabinde=
+x=3D"-1" type=3D"button"><code><span>:goal</span><span>_<wbr></span><span>n=
+et:</span></code></button><p>Catch errors.</p></div></div></article><articl=
+e style=3D"--emojiColor:#ffdb3a" class=3D"styles-module__4hiIaW__emoji col-=
+xs-12 col-sm-6 col-md-3"><div class=3D"styles-module__4hiIaW__card "><heade=
+r class=3D"styles-module__4hiIaW__cardHeader"><button type=3D"button" class=
+=3D"gitmoji-clipboard-emoji styles-module__4hiIaW__gitmoji" data-clipboard-=
+text=3D"=F0=9F=92=AB">=F0=9F=92=AB</button></header><div class=3D"styles-mo=
+dule__4hiIaW__gitmojiInfo"><button class=3D"gitmoji-clipboard-code styles-m=
+odule__4hiIaW__gitmojiCode" data-clipboard-text=3D":dizzy:" tabindex=3D"-1"=
+ type=3D"button"><code><span>:dizzy:</span></code></button><p>Add or update=
+ animations and transitions.</p></div></div></article><article style=3D"--e=
+mojiColor:#d9e3e8" class=3D"styles-module__4hiIaW__emoji col-xs-12 col-sm-6=
+ col-md-3"><div class=3D"styles-module__4hiIaW__card "><header class=3D"sty=
+les-module__4hiIaW__cardHeader"><button type=3D"button" class=3D"gitmoji-cl=
+ipboard-emoji styles-module__4hiIaW__gitmoji" data-clipboard-text=3D"=F0=9F=
+=97=91=EF=B8=8F">=F0=9F=97=91=EF=B8=8F</button></header><div class=3D"style=
+s-module__4hiIaW__gitmojiInfo"><button class=3D"gitmoji-clipboard-code styl=
+es-module__4hiIaW__gitmojiCode" data-clipboard-text=3D":wastebasket:" tabin=
+dex=3D"-1" type=3D"button"><code><span>:wastebasket:</span></code></button>=
+<p>Deprecate code that needs to be cleaned up.</p></div></div></article><ar=
+ticle style=3D"--emojiColor:#4dc6dc" class=3D"styles-module__4hiIaW__emoji =
+col-xs-12 col-sm-6 col-md-3"><div class=3D"styles-module__4hiIaW__card "><h=
+eader class=3D"styles-module__4hiIaW__cardHeader"><button type=3D"button" c=
+lass=3D"gitmoji-clipboard-emoji styles-module__4hiIaW__gitmoji" data-clipbo=
+ard-text=3D"=F0=9F=9B=82">=F0=9F=9B=82</button></header><div class=3D"style=
+s-module__4hiIaW__gitmojiInfo"><button class=3D"gitmoji-clipboard-code styl=
+es-module__4hiIaW__gitmojiCode" data-clipboard-text=3D":passport_control:" =
+tabindex=3D"-1" type=3D"button"><code><span>:passport</span><span>_<wbr></s=
+pan><span>control:</span></code></button><p>Work on code related to authori=
+zation, roles and permissions.</p></div></div></article><article style=3D"-=
+-emojiColor:#fbcfb7" class=3D"styles-module__4hiIaW__emoji col-xs-12 col-sm=
+-6 col-md-3"><div class=3D"styles-module__4hiIaW__card "><header class=3D"s=
+tyles-module__4hiIaW__cardHeader"><button type=3D"button" class=3D"gitmoji-=
+clipboard-emoji styles-module__4hiIaW__gitmoji" data-clipboard-text=3D"=F0=
+=9F=A9=B9">=F0=9F=A9=B9</button></header><div class=3D"styles-module__4hiIa=
+W__gitmojiInfo"><button class=3D"gitmoji-clipboard-code styles-module__4hiI=
+aW__gitmojiCode" data-clipboard-text=3D":adhesive_bandage:" tabindex=3D"-1"=
+ type=3D"button"><code><span>:adhesive</span><span>_<wbr></span><span>banda=
+ge:</span></code></button><p>Simple fix for a non-critical issue.</p></div>=
+</div></article><article style=3D"--emojiColor:#ffe55f" class=3D"styles-mod=
+ule__4hiIaW__emoji col-xs-12 col-sm-6 col-md-3"><div class=3D"styles-module=
+__4hiIaW__card "><header class=3D"styles-module__4hiIaW__cardHeader"><butto=
+n type=3D"button" class=3D"gitmoji-clipboard-emoji styles-module__4hiIaW__g=
+itmoji" data-clipboard-text=3D"=F0=9F=A7=90">=F0=9F=A7=90</button></header>=
+<div class=3D"styles-module__4hiIaW__gitmojiInfo"><button class=3D"gitmoji-=
+clipboard-code styles-module__4hiIaW__gitmojiCode" data-clipboard-text=3D":=
+monocle_face:" tabindex=3D"-1" type=3D"button"><code><span>:monocle</span><=
+span>_<wbr></span><span>face:</span></code></button><p>Data exploration/ins=
+pection.</p></div></div></article><article style=3D"--emojiColor:#d9e3e8" c=
+lass=3D"styles-module__4hiIaW__emoji col-xs-12 col-sm-6 col-md-3"><div clas=
+s=3D"styles-module__4hiIaW__card "><header class=3D"styles-module__4hiIaW__=
+cardHeader"><button type=3D"button" class=3D"gitmoji-clipboard-emoji styles=
+-module__4hiIaW__gitmoji" data-clipboard-text=3D"=E2=9A=B0=EF=B8=8F">=E2=9A=
+=B0=EF=B8=8F</button></header><div class=3D"styles-module__4hiIaW__gitmojiI=
+nfo"><button class=3D"gitmoji-clipboard-code styles-module__4hiIaW__gitmoji=
+Code" data-clipboard-text=3D":coffin:" tabindex=3D"-1" type=3D"button"><cod=
+e><span>:coffin:</span></code></button><p>Remove dead code.</p></div></div>=
+</article><article style=3D"--emojiColor:#fb584a" class=3D"styles-module__4=
+hiIaW__emoji col-xs-12 col-sm-6 col-md-3"><div class=3D"styles-module__4hiI=
+aW__card "><header class=3D"styles-module__4hiIaW__cardHeader"><button type=
+=3D"button" class=3D"gitmoji-clipboard-emoji styles-module__4hiIaW__gitmoji=
+" data-clipboard-text=3D"=F0=9F=A7=AA">=F0=9F=A7=AA</button></header><div c=
+lass=3D"styles-module__4hiIaW__gitmojiInfo"><button class=3D"gitmoji-clipbo=
+ard-code styles-module__4hiIaW__gitmojiCode" data-clipboard-text=3D":test_t=
+ube:" tabindex=3D"-1" type=3D"button"><code><span>:test</span><span>_<wbr><=
+/span><span>tube:</span></code></button><p>Add a failing test.</p></div></d=
+iv></article><article style=3D"--emojiColor:#83beec" class=3D"styles-module=
+__4hiIaW__emoji col-xs-12 col-sm-6 col-md-3"><div class=3D"styles-module__4=
+hiIaW__card "><header class=3D"styles-module__4hiIaW__cardHeader"><button t=
+ype=3D"button" class=3D"gitmoji-clipboard-emoji styles-module__4hiIaW__gitm=
+oji" data-clipboard-text=3D"=F0=9F=91=94">=F0=9F=91=94</button></header><di=
+v class=3D"styles-module__4hiIaW__gitmojiInfo"><button class=3D"gitmoji-cli=
+pboard-code styles-module__4hiIaW__gitmojiCode" data-clipboard-text=3D":nec=
+ktie:" tabindex=3D"-1" type=3D"button"><code><span>:necktie:</span></code><=
+/button><p>Add or update business logic.</p></div></div></article><article =
+style=3D"--emojiColor:#77e856" class=3D"styles-module__4hiIaW__emoji col-xs=
+-12 col-sm-6 col-md-3"><div class=3D"styles-module__4hiIaW__card "><header =
+class=3D"styles-module__4hiIaW__cardHeader"><button type=3D"button" class=
+=3D"gitmoji-clipboard-emoji styles-module__4hiIaW__gitmoji" data-clipboard-=
+text=3D"=F0=9F=A9=BA">=F0=9F=A9=BA</button></header><div class=3D"styles-mo=
+dule__4hiIaW__gitmojiInfo"><button class=3D"gitmoji-clipboard-code styles-m=
+odule__4hiIaW__gitmojiCode" data-clipboard-text=3D":stethoscope:" tabindex=
+=3D"-1" type=3D"button"><code><span>:stethoscope:</span></code></button><p>=
+Add or update healthcheck.</p></div></div></article><article style=3D"--emo=
+jiColor:#ff6723" class=3D"styles-module__4hiIaW__emoji col-xs-12 col-sm-6 c=
+ol-md-3"><div class=3D"styles-module__4hiIaW__card "><header class=3D"style=
+s-module__4hiIaW__cardHeader"><button type=3D"button" class=3D"gitmoji-clip=
+board-emoji styles-module__4hiIaW__gitmoji" data-clipboard-text=3D"=F0=9F=
+=A7=B1">=F0=9F=A7=B1</button></header><div class=3D"styles-module__4hiIaW__=
+gitmojiInfo"><button class=3D"gitmoji-clipboard-code styles-module__4hiIaW_=
+_gitmojiCode" data-clipboard-text=3D":bricks:" tabindex=3D"-1" type=3D"butt=
+on"><code><span>:bricks:</span></code></button><p>Infrastructure related ch=
+anges.</p></div></div></article><article style=3D"--emojiColor:#86B837" cla=
+ss=3D"styles-module__4hiIaW__emoji col-xs-12 col-sm-6 col-md-3"><div class=
+=3D"styles-module__4hiIaW__card "><header class=3D"styles-module__4hiIaW__c=
+ardHeader"><button type=3D"button" class=3D"gitmoji-clipboard-emoji styles-=
+module__4hiIaW__gitmoji" data-clipboard-text=3D"=F0=9F=A7=91=E2=80=8D=F0=9F=
+=92=BB">=F0=9F=A7=91=E2=80=8D=F0=9F=92=BB</button></header><div class=3D"st=
+yles-module__4hiIaW__gitmojiInfo"><button class=3D"gitmoji-clipboard-code s=
+tyles-module__4hiIaW__gitmojiCode" data-clipboard-text=3D":technologist:" t=
+abindex=3D"-1" type=3D"button"><code><span>:technologist:</span></code></bu=
+tton><p>Improve developer experience.</p></div></div></article><article sty=
+le=3D"--emojiColor:#b3c0b1" class=3D"styles-module__4hiIaW__emoji col-xs-12=
+ col-sm-6 col-md-3"><div class=3D"styles-module__4hiIaW__card "><header cla=
+ss=3D"styles-module__4hiIaW__cardHeader"><button type=3D"button" class=3D"g=
+itmoji-clipboard-emoji styles-module__4hiIaW__gitmoji" data-clipboard-text=
+=3D"=F0=9F=92=B8">=F0=9F=92=B8</button></header><div class=3D"styles-module=
+__4hiIaW__gitmojiInfo"><button class=3D"gitmoji-clipboard-code styles-modul=
+e__4hiIaW__gitmojiCode" data-clipboard-text=3D":money_with_wings:" tabindex=
+=3D"-1" type=3D"button"><code><span>:money</span><span>_<wbr></span><span>w=
+ith</span><span>_<wbr></span><span>wings:</span></code></button><p>Add spon=
+sorships or money related infrastructure.</p></div></div></article><article=
+ style=3D"--emojiColor:#ffbe7b" class=3D"styles-module__4hiIaW__emoji col-x=
+s-12 col-sm-6 col-md-3"><div class=3D"styles-module__4hiIaW__card "><header=
+ class=3D"styles-module__4hiIaW__cardHeader"><button type=3D"button" class=
+=3D"gitmoji-clipboard-emoji styles-module__4hiIaW__gitmoji" data-clipboard-=
+text=3D"=F0=9F=A7=B5">=F0=9F=A7=B5</button></header><div class=3D"styles-mo=
+dule__4hiIaW__gitmojiInfo"><button class=3D"gitmoji-clipboard-code styles-m=
+odule__4hiIaW__gitmojiCode" data-clipboard-text=3D":thread:" tabindex=3D"-1=
+" type=3D"button"><code><span>:thread:</span></code></button><p>Add or upda=
+te code related to multithreading or concurrency.</p></div></div></article>=
+<article style=3D"--emojiColor:#f2ad52" class=3D"styles-module__4hiIaW__emo=
+ji col-xs-12 col-sm-6 col-md-3"><div class=3D"styles-module__4hiIaW__card "=
+><header class=3D"styles-module__4hiIaW__cardHeader"><button type=3D"button=
+" class=3D"gitmoji-clipboard-emoji styles-module__4hiIaW__gitmoji" data-cli=
+pboard-text=3D"=F0=9F=A6=BA">=F0=9F=A6=BA</button></header><div class=3D"st=
+yles-module__4hiIaW__gitmojiInfo"><button class=3D"gitmoji-clipboard-code s=
+tyles-module__4hiIaW__gitmojiCode" data-clipboard-text=3D":safety_vest:" ta=
+bindex=3D"-1" type=3D"button"><code><span>:safety</span><span>_<wbr></span>=
+<span>vest:</span></code></button><p>Add or update code related to validati=
+on.</p></div></div></article><article style=3D"--emojiColor:#74d4ec" class=
+=3D"styles-module__4hiIaW__emoji col-xs-12 col-sm-6 col-md-3"><div class=3D=
+"styles-module__4hiIaW__card "><header class=3D"styles-module__4hiIaW__card=
+Header"><button type=3D"button" class=3D"gitmoji-clipboard-emoji styles-mod=
+ule__4hiIaW__gitmoji" data-clipboard-text=3D"=E2=9C=88=EF=B8=8F">=E2=9C=88=
+=EF=B8=8F</button></header><div class=3D"styles-module__4hiIaW__gitmojiInfo=
+"><button class=3D"gitmoji-clipboard-code styles-module__4hiIaW__gitmojiCod=
+e" data-clipboard-text=3D":airplane:" tabindex=3D"-1" type=3D"button"><code=
+><span>:airplane:</span></code></button><p>Improve offline support.</p></di=
+v></div></article><article style=3D"--emojiColor:#56d1d8" class=3D"styles-m=
+odule__4hiIaW__emoji col-xs-12 col-sm-6 col-md-3"><div class=3D"styles-modu=
+le__4hiIaW__card "><header class=3D"styles-module__4hiIaW__cardHeader"><but=
+ton type=3D"button" class=3D"gitmoji-clipboard-emoji styles-module__4hiIaW_=
+_gitmoji" data-clipboard-text=3D"=F0=9F=A6=96">=F0=9F=A6=96</button></heade=
+r><div class=3D"styles-module__4hiIaW__gitmojiInfo"><button class=3D"gitmoj=
+i-clipboard-code styles-module__4hiIaW__gitmojiCode" data-clipboard-text=3D=
+":t-rex:" tabindex=3D"-1" type=3D"button"><code><span>:t-rex:</span></code>=
+</button><p>Code that adds backwards compatibility.</p></div></div></articl=
+e></div><div id=3D"_rht_toaster" style=3D"position:fixed;z-index:9999;top:1=
+6px;left:16px;right:16px;bottom:16px;pointer-events:none"></div></main><!--=
+$--><!--/$--></main><footer class=3D"styles-module__af8k3q__footer"><div cl=
+ass=3D"wrap"><div class=3D"row middle-xs"><div class=3D"col-sm-6 styles-mod=
+ule__af8k3q__madeWithLove"><h3>Made with <svg class=3D"styles-module__ai0mM=
+a__icon icon-heart"><use xlink:href=3D"#icon-heart"></use></svg> by<!-- -->=
+ <a href=3D"https://carloscuesta.me/">Carlos Cuesta</a></h3></div><div clas=
+s=3D"col-sm-6 styles-module__af8k3q__footerNav"><nav><a href=3D"https://git=
+moji.dev/about">About</a><a href=3D"https://gitmoji.dev/contributors">Contr=
+ibutors</a><a href=3D"https://github.com/carloscuesta/gitmoji">GitHub</a></=
+nav></div></div></div></footer><!-- Cloudflare Pages Analytics --><!-- Clou=
+dflare Pages Analytics -->
+<next-route-announcer style=3D"position: absolute;"><template shadowmode=3D=
+"open"><div aria-live=3D"assertive" id=3D"__next-route-announcer__" role=3D=
+"alert" style=3D"position: absolute; border: 0px; height: 1px; margin: -1px=
+; padding: 0px; width: 1px; clip: rect(0px, 0px, 0px, 0px); overflow: hidde=
+n; white-space: nowrap; overflow-wrap: normal;"></div></template></next-rou=
+te-announcer></body></html>
+------MultipartBoundary--UJV2JerR3aGUKU6pxZH3bLNE5eDLhiVRKxU2zETYQJ----
+Content-Type: image/gif
+Content-Transfer-Encoding: base64
+Content-Location: https://cnv.event.prod.bidr.io/log/cnv?tag_id=3503&buzz_key=dsp&value=&account_id=79&order=[ORDER]&ord=[CACHEBUSTER]
+
+R0lGODlhAQABAIABAP///wAAACH5BAEKAAEALAAAAAABAAEAAAICTAEAOw==
+
+------MultipartBoundary--UJV2JerR3aGUKU6pxZH3bLNE5eDLhiVRKxU2zETYQJ----
+Content-Type: image/gif
+Content-Transfer-Encoding: base64
+Content-Location: https://segment.prod.bidr.io/associate-segment?buzz_key=dsp&segment_key=dsp-19102
+
+R0lGODlhAQABAIABAP///wAAACH5BAEKAAEALAAAAAABAAEAAAICTAEAOw==
+
+------MultipartBoundary--UJV2JerR3aGUKU6pxZH3bLNE5eDLhiVRKxU2zETYQJ----
+Content-Type: image/gif
+Content-Transfer-Encoding: base64
+Content-Location: https://secure.adnxs.com/px?id=1777282&t=2
+
+R0lGODlhAQABAIABAAAAAP///yH5BAEAAAEALAAAAAABAAEAQAICTAEAOw==
+
+------MultipartBoundary--UJV2JerR3aGUKU6pxZH3bLNE5eDLhiVRKxU2zETYQJ----
+Content-Type: image/gif
+Content-Transfer-Encoding: base64
+Content-Location: https://secure.adnxs.com/seg?add=37012073&t=2
+
+R0lGODlhAQABAIABAAAAAP///yH5BAEAAAEALAAAAAABAAEAQAICTAEAOw==
+
+------MultipartBoundary--UJV2JerR3aGUKU6pxZH3bLNE5eDLhiVRKxU2zETYQJ----
+Content-Type: image/gif
+Content-Transfer-Encoding: base64
+Content-Location: https://sp.analytics.yahoo.com/spp.pl?a=10000&.yp=10207075&he=&hph=&gv=[ORDER_VALUE]&orderId=[ORDER_ID]&ec=[EVENT_CATEGORY]&ea=fire&el=[EVENT_LABEL]
+
+R0lGODlhAQABAIAAAP///////yH5BAQUAP8ALAAAAAABAAEAAAICRAEAOw==
+
+------MultipartBoundary--UJV2JerR3aGUKU6pxZH3bLNE5eDLhiVRKxU2zETYQJ----
+Content-Type: image/gif
+Content-Transfer-Encoding: base64
+Content-Location: https://ad.doubleclick.net/ddm/activity/src=15643656;type=sales;cat=408690;qty=1;cost=[Revenue];dc_lat=;dc_rdid=;tag_for_child_directed_treatment=;tfua=;npa=;gdpr=$;gdpr_consent=$;ord=[OrderID]?
+
+R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7
+
+------MultipartBoundary--UJV2JerR3aGUKU6pxZH3bLNE5eDLhiVRKxU2zETYQJ----
+Content-Type: image/gif
+Content-Transfer-Encoding: base64
+Content-Location: https://insight.adsrvr.org/track/pxl/?adv=t3k9qrj&ct=0:djrfa1z&fmt=3&orderid=&v=
+
+R0lGODlhAQABAIEAAAAAAP///wAAAAAAACH/C05FVFNDQVBFMi4wAwEBAAAh+QQBAAAAACwAAAAA
+AQABAAAIBAABBAQAOw==
+
+------MultipartBoundary--UJV2JerR3aGUKU6pxZH3bLNE5eDLhiVRKxU2zETYQJ----
+Content-Type: image/jpeg
+Content-Transfer-Encoding: base64
+Content-Location: https://srv.carbonads.net/static/30242/f3dc6d2c4c4ea6771977d883b7a49937b048390f
+
+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
+OOOA4444DjjjgOOOOA4444DjjjgOOOOB/9k=
+
+------MultipartBoundary--UJV2JerR3aGUKU6pxZH3bLNE5eDLhiVRKxU2zETYQJ----
+Content-Type: text/css
+Content-Transfer-Encoding: quoted-printable
+Content-Location: https://gitmoji.dev/_next/static/chunks/27241192a9831499.css
+
+@charset "utf-8";
+
+.styles-module__KkB59q__kbd { color: rgb(89, 89, 89); border: 1px solid rgb=
+(153, 153, 153); border-radius: 3px; align-items: center; margin-right: 0.5=
+rem; padding: 0.25rem 0.5rem; font-family: system-ui; display: flex; right:=
+ 0px; }
+
+[data-theme=3D"dark"] .styles-module__KkB59q__kbd { color: rgb(184, 184, 18=
+4); }
+
+@media (max-width: 568px) {
+  .styles-module__KkB59q__kbd { display: none; }
+}
+------MultipartBoundary--UJV2JerR3aGUKU6pxZH3bLNE5eDLhiVRKxU2zETYQJ----
+Content-Type: text/css
+Content-Transfer-Encoding: quoted-printable
+Content-Location: https://gitmoji.dev/_next/static/chunks/298b304410e38586.css
+
+@charset "utf-8";
+
+.styles-module__EpelRW__picture { border-radius: 50%; max-width: 100%; padd=
+ing: 0.5em; }
+
+.styles-module__sBeBSa__carbonContainer { height: 100px; }
+
+#carbonads { max-width: 728px; box-shadow: 0 1px 2px 0 var(--cardShadow); b=
+order-radius: 4px; display: block; position: relative; overflow: hidden; }
+
+#carbonads > span { display: block; }
+
+#carbonads a { color: inherit; text-decoration: none; }
+
+#carbonads a:hover { color: inherit; animation: auto ease 0s 1 normal none =
+running none; }
+
+.carbon-wrap { align-items: center; display: flex; }
+
+.carbon-img { margin: 0px; line-height: 1; display: block; }
+
+.carbon-img img { width: auto; height: 90px; display: block; }
+
+.carbon-text { text-align: center; width: 100%; padding: 0px 1em; font-size=
+: 14px; line-height: 1.35; display: block; }
+
+.carbon-poweredby { background: var(--carbonAdBadgeBackground); text-align:=
+ center; text-transform: uppercase; letter-spacing: 0.5px; border-top-left-=
+radius: 4px; padding: 6px 10px; font-size: 8px; font-weight: 600; line-heig=
+ht: 1; display: block; position: absolute; bottom: 0px; right: 0px; }
+------MultipartBoundary--UJV2JerR3aGUKU6pxZH3bLNE5eDLhiVRKxU2zETYQJ----
+Content-Type: text/css
+Content-Transfer-Encoding: quoted-printable
+Content-Location: https://gitmoji.dev/_next/static/chunks/8300ce7503ba9f3f.css
+
+@charset "utf-8";
+
+:root { --background: #fff; --primary: #ffdd67; --primaryShadow: #ffcc1b; -=
+-secondary: #ff5a79; --secondaryShadow: #f3002e; --textInPrimary: #000; --t=
+extInSecondary: #fff; --footerBackground: #00e5ff; --cardBackground: #fff; =
+--cardText: #999; --emojiCodeText: #000; --cardShadow: #a8b6bf99; --notific=
+ationText: #fff; --notificationShadow: #0000000d; --notificationEmojiCodeCo=
+lor: #000000d9; --menuBackground: #ff5a79; --carbonAdBadgeBackground: #f1f1=
+f1; }
+
+[data-theme=3D"dark"] { --background: #121212; --primary: #ffdd67; --primar=
+yShadow: #ffcc1b; --secondary: #ff5a79; --secondaryShadow: #f3002e; --textI=
+nPrimary: #000; --textInSecondary: #fff; --footerBackground: #00e5ff; --car=
+dBackground: #2b2b2b; --cardText: #fff; --emojiCodeText: #fff; --cardShadow=
+: none; --notificationText: #fff; --notificationShadow: #0000000d; --notifi=
+cationEmojiCodeColor: #000000d9; --menuBackground: #ff5a79; --carbonAdBadge=
+Background: #2b2b2b; }
+
+[data-theme=3D"dark"] body { color: var(--cardText); }
+
+html, body { background-color: var(--background); margin: 0px; padding: 0px=
+; font-family: Avenir, -apple-system, BlinkMacSystemFont, "Segoe UI", Robot=
+o, Oxygen, Ubuntu, Cantarell, "Fira Sans", "Droid Sans", "Helvetica Neue", =
+sans-serif; font-size: 16.5px; }
+
+h1 { font-size: 2em; }
+
+a { color: var(--secondary); text-decoration: none; }
+
+a:hover { animation: 0.5s ease 0s infinite normal none running zomg; }
+
+@media (prefers-reduced-motion: reduce) {
+  a:hover { text-decoration: underline; animation: auto ease 0s 1 normal no=
+ne running none; }
+}
+
+code { word-break: break-all; font-family: Avenir, -apple-system, BlinkMacS=
+ystemFont, "Segoe UI", Roboto, Oxygen, Ubuntu, Cantarell, "Fira Sans", "Dro=
+id Sans", "Helvetica Neue", sans-serif; font-size: 1.25em; font-weight: 700=
+; }
+
+section { padding: 0.5em; }
+
+pre { background-color: var(--primary); box-shadow: 0 4px var(--primaryShad=
+ow); color: var(--textInPrimary); border-radius: 4px; padding: 1em; }
+
+.overflow-hidden { overflow: hidden; }
+
+.overflow-x-adjust { overflow-x: auto; }
+
+.wrap { max-width: 1100px; margin: 0px auto; }
+
+main.wrap { padding: 2em; }
+
+@keyframes zomg {=20
+  0%, 100% { color: rgb(124, 205, 234); }
+  16% { color: rgb(0, 116, 217); }
+  32% { color: rgb(46, 204, 64); }
+  48% { color: rgb(255, 220, 0); }
+  64% { color: rgb(177, 13, 201); }
+  80% { color: rgb(255, 65, 54); }
+}
+
+@media (min-width: 2048px) {
+  html, body { font-size: 19px; }
+}
+
+.col-sm-2, .col-xs-12, .col-xs-3, .row { box-sizing: border-box; }
+
+.container { margin-left: auto; margin-right: auto; }
+
+.row { flex-flow: wrap; flex: 0 1 auto; margin-left: -0.5rem; margin-right:=
+ -0.5rem; display: flex; }
+
+.col-xs-12, .col-xs-3 { flex: 0 0 auto; padding-left: 1.25rem; padding-righ=
+t: 1.25rem; }
+
+.col-xs-12 { flex-basis: 100%; max-width: 100%; }
+
+.col-xs-3 { flex-basis: 25%; max-width: 25%; }
+
+.center-xs { text-align: center; justify-content: center; }
+
+.middle-xs { align-items: center; }
+
+@media only screen and (min-width: 48em) {
+  .container { width: 49rem; }
+  .col-sm-2, .col-sm-6 { box-sizing: border-box; flex: 0 0 auto; padding-le=
+ft: 1.25rem; padding-right: 1.25rem; }
+  .col-sm-6 { flex-basis: 50%; max-width: 50%; }
+  .col-sm-2 { flex-basis: 16.6667%; max-width: 16.6667%; }
+}
+
+@media only screen and (min-width: 64em) {
+  .container { width: 65rem; }
+  .col-md-3 { box-sizing: border-box; flex: 0 0 25%; max-width: 25%; paddin=
+g-left: 1.25rem; padding-right: 1.25rem; }
+  .col-md-4 { flex-basis: 33.3333%; max-width: 33.3333%; }
+}
+------MultipartBoundary--UJV2JerR3aGUKU6pxZH3bLNE5eDLhiVRKxU2zETYQJ----
+Content-Type: text/css
+Content-Transfer-Encoding: quoted-printable
+Content-Location: https://gitmoji.dev/_next/static/chunks/d3d0e7e7dc1c149e.css
+
+@charset "utf-8";
+
+.styles-module__4hiIaW__emoji { box-sizing: border-box; display: flex; }
+
+.styles-module__4hiIaW__card { background-color: var(--cardBackground); box=
+-shadow: 0 1px 2px 0 var(--cardShadow); text-align: center; border-radius: =
+4px; flex: 1 1 0%; margin: 1em 0px; transition: 0.25s ease-out; overflow: h=
+idden; }
+
+.styles-module__4hiIaW__cardList { display: flex; }
+
+.styles-module__4hiIaW__cardList .styles-module__4hiIaW__gitmoji { font-siz=
+e: 3.5em; }
+
+.styles-module__4hiIaW__cardList .styles-module__4hiIaW__cardHeader { justi=
+fy-content: center; align-items: center; height: 100%; padding: 0px 1rem; d=
+isplay: flex; }
+
+.styles-module__4hiIaW__cardList .styles-module__4hiIaW__gitmojiInfo { text=
+-align: left; padding: 1rem; }
+
+.styles-module__4hiIaW__cardList .styles-module__4hiIaW__gitmojiCode { text=
+-align: left; }
+
+.styles-module__4hiIaW__cardList .styles-module__4hiIaW__gitmojiInfo p { ma=
+rgin: 0px; padding: 0.5rem 0px 0px; }
+
+.styles-module__4hiIaW__card:hover { box-shadow: 0 10px 20px 0 var(--cardSh=
+adow); transform: translateY(-1px); }
+
+[data-theme=3D"dark"] .styles-module__4hiIaW__card:hover { box-shadow: none=
+; background-color: rgb(59, 59, 59); }
+
+.styles-module__4hiIaW__cardHeader { background-color: var(--emojiColor); b=
+order-top-left-radius: 4px; border-top-right-radius: 4px; align-self: flex-=
+start; padding-top: 2em; padding-bottom: 0.85em; }
+
+.styles-module__4hiIaW__gitmoji, .styles-module__4hiIaW__gitmojiCode { colo=
+r: inherit; font: inherit; background-color: rgba(0, 0, 0, 0); border-width=
+: medium; border-style: none; border-color: currentcolor; border-image: ini=
+tial; padding: 0px; }
+
+.styles-module__4hiIaW__gitmoji { cursor: pointer; font-family: "Apple Colo=
+r Emoji", "Segoe UI Emoji", "Noto Color Emoji", "Segoe UI Symbol", "Android=
+ Emoji", EmojiSymbols; font-size: 5em; display: inline-block; }
+
+.styles-module__4hiIaW__gitmoji:hover, .styles-module__4hiIaW__gitmoji:focu=
+s { animation-name: styles-module__4hiIaW__bounce; animation-duration: 0.5s=
+; }
+
+.styles-module__4hiIaW__gitmojiCode { cursor: pointer; white-space: nowrap;=
+ border-radius: 4px; transition-duration: 0.3s; display: inline-block; posi=
+tion: relative; }
+
+.styles-module__4hiIaW__gitmojiCode::after { content: ""; background-color:=
+ var(--emojiColor); border-radius: 4px; width: 0px; height: 0.2em; transiti=
+on: width 0.15s; position: absolute; bottom: 0px; left: 0px; }
+
+.styles-module__4hiIaW__gitmojiCode:hover::after { width: 100%; }
+
+.styles-module__4hiIaW__gitmojiInfo { word-break: break-all; color: var(--e=
+mojiCodeText); padding: 1.5em; }
+
+.styles-module__4hiIaW__gitmojiInfo p { color: var(--cardText); word-break:=
+ normal; }
+
+@media (max-width: 768px) {
+  .styles-module__4hiIaW__gitmoji, .styles-module__4hiIaW__cardList .styles=
+-module__4hiIaW__gitmoji { font-size: 50px; }
+  .styles-module__4hiIaW__cardHeader { padding-bottom: 1em; }
+}
+
+@keyframes styles-module__4hiIaW__bounce {=20
+  0%, 20%, 53%, 80%, 100% { animation-timing-function: cubic-bezier(0.215, =
+0.61, 0.355, 1); transform: translate(0px, 0px); }
+  40%, 43% { animation-timing-function: cubic-bezier(0.755, 0.05, 0.855, 0.=
+06); transform: translateY(-9px); }
+  70% { animation-timing-function: cubic-bezier(0.755, 0.05, 0.855, 0.06); =
+transform: translateY(-5px); }
+  90% { transform: translateY(-2px); }
+}
+
+.styles-module__ai0mMa__icon { width: 1em; height: 1em; margin-right: 0.25e=
+m; }
+
+.styles-module__ai0mMa__icon.icon-heart { margin: 0px; }
+
+.styles-module__HFYu5G__button { cursor: pointer; background-color: var(--s=
+econdary); color: var(--textInSecondary); box-shadow: 0 4px var(--secondary=
+Shadow); border-radius: 4px; margin: 0.25em 0px; padding: 0.75em 1em; font-=
+weight: 600; transition: none; display: inline-block; position: relative; }
+
+.styles-module__HFYu5G__button:hover { box-shadow: 0 2px var(--secondarySha=
+dow); animation: auto ease 0s 1 normal none running none; top: 2px; }
+
+.styles-module__HFYu5G__button:active { box-shadow: 0 0 var(--secondary); t=
+op: 4px; }
+
+.styles-module__ml6gfa__logo { width: 100%; height: 115px; }
+
+.styles-module__bkqF3q__container { display: flex; }
+
+.styles-module__bkqF3q__button { color: var(--text); cursor: pointer; backg=
+round-color: var(--cardBackground); box-shadow: 0 2px 4px 0 var(--cardShado=
+w); border-width: medium; border-style: none; border-color: currentcolor; b=
+order-image: initial; border-radius: 4px; justify-content: center; align-it=
+ems: center; width: 48px; height: 48px; margin: 8px; font-size: 16px; displ=
+ay: flex; }
+
+.styles-module__bkqF3q__button svg { margin: 0px; }
+
+.styles-module__bkqF3q__buttonActive { color: var(--secondary); }
+
+.styles-module__k3DjKG__header { background-color: var(--primary); text-ali=
+gn: center; padding: 4.5em 2em; }
+
+.styles-module__k3DjKG__title { color: var(--textInPrimary); margin: 0px; p=
+adding: 0.5em 0px; font-size: 2em; }
+
+.styles-module__k3DjKG__buttons { text-align: center; padding: 1em 0px; }
+
+.styles-module__k3DjKG__buttons a:first-child { margin-right: 1em; }
+
+.styles-module__z61w9q__button { color: var(--text); cursor: pointer; backg=
+round-color: var(--cardBackground); box-shadow: 0 2px 4px 0 var(--cardShado=
+w); border-width: medium; border-style: none; border-color: currentcolor; b=
+order-image: initial; border-radius: 4px; justify-content: center; align-it=
+ems: center; width: 48px; height: 48px; margin: 8px; font-size: 16px; displ=
+ay: flex; }
+
+.styles-module__z61w9q__button svg { margin: 0px; }
+
+@media (max-width: 568px) {
+  .styles-module__z61w9q__button { margin-left: 0px; }
+}
+
+.styles-module__kb6VNq__link { color: var(--text); font-weight: 700; text-d=
+ecoration: none; }
+
+.styles-module__kb6VNq__link:hover, .styles-module__kb6VNq__linkActive { te=
+xt-decoration: underline; }
+
+.styles-module__8QYxOW__container { flex-direction: row; align-items: cente=
+r; margin-top: 1.5rem; margin-bottom: 0.5rem; display: flex; }
+
+.styles-module__8QYxOW__actionsContainer { display: flex; }
+
+.styles-module__8QYxOW__inputWrapper { box-shadow: 0 2px 4px 0 var(--cardSh=
+adow); background-color: var(--cardBackground); border: 0px; border-radius:=
+ 4px; flex: 1 1 0%; align-items: center; margin-right: 1rem; display: flex;=
+ }
+
+.styles-module__8QYxOW__inputWrapper:focus-within { outline: -webkit-focus-=
+ring-color auto 1px; }
+
+.styles-module__8QYxOW__searchInput { background-color: rgba(0, 0, 0, 0); b=
+order-width: medium; border-style: none; border-color: currentcolor; border=
+-image: initial; flex-grow: 1; padding: 1rem; font-size: 1rem; }
+
+.styles-module__8QYxOW__searchInput:focus-visible, .styles-module__8QYxOW__=
+searchInput:focus { outline: none; }
+
+[data-theme=3D"dark"] .styles-module__8QYxOW__searchInput { color: var(--te=
+xt); }
+
+@media (max-width: 568px) {
+  .styles-module__8QYxOW__searchInput { margin: 0.5rem 0px 0px; }
+  .styles-module__8QYxOW__container { flex-direction: column-reverse; align=
+-items: stretch; }
+}
+
+.styles-module__c3C54G__hamburger { z-index: 1; position: fixed; right: 0px=
+; }
+
+.styles-module__c3C54G__menu { background: var(--menuBackground); position:=
+ fixed; inset: 0px; }
+
+.styles-module__c3C54G__button { color: var(--secondary); cursor: pointer; =
+font: inherit; background-color: rgba(0, 0, 0, 0); border-width: medium; bo=
+rder-style: none; border-color: currentcolor; border-image: initial; margin=
+: 0px; padding: 0.75em; display: flex; }
+
+.styles-module__c3C54G__closeContainer { position: absolute; right: 0px; }
+
+.styles-module__c3C54G__closeContainer .styles-module__c3C54G__button { col=
+or: var(--textInSecondary); }
+
+.styles-module__c3C54G__links { color: var(--textInSecondary); flex-directi=
+on: column; flex: 1 1 0%; justify-content: center; align-items: center; hei=
+ght: 100%; margin: 0px; padding: 0px; font-size: 3em; list-style-type: none=
+; display: flex; }
+
+.styles-module__c3C54G__links li { padding: 0.5em 0px; }
+
+.styles-module__9FUSSW__gitmojiCode { background-color: var(--notificationE=
+mojiCodeColor); color: var(--notificationText); border-radius: 4px; padding=
+: 0px 4px; }
+
+.styles-module__9FUSSW__closeButton { text-indent: 100%; cursor: pointer; b=
+ackface-visibility: hidden; width: 20px; height: 20px; position: absolute; =
+top: 4px; right: 4px; overflow: hidden; }
+
+.styles-module__9FUSSW__closeButton:hover, .styles-module__9FUSSW__closeBut=
+ton:focus { outline: none; }
+
+.styles-module__9FUSSW__closeButton::before, .styles-module__9FUSSW__closeB=
+utton::after { content: ""; background: var(--notificationText); width: 3px=
+; height: 60%; position: absolute; top: 50%; left: 50%; }
+
+.styles-module__9FUSSW__closeButton::before { transform: translate(-50%, -5=
+0%) rotate(45deg); }
+
+.styles-module__9FUSSW__closeButton::after { transform: translate(-50%, -50=
+%) rotate(-45deg); }
+
+.styles-module__af8k3q__footer { background-color: var(--footerBackground);=
+ color: var(--textInSecondary); padding: 1.5em; }
+
+.styles-module__af8k3q__footerNav { text-align: end; justify-content: flex-=
+end; }
+
+.styles-module__af8k3q__footerNav a::after { content: "=C2=B7"; color: var(=
+--textInSecondary); margin: 0px 0.75em; }
+
+.styles-module__af8k3q__footerNav a:last-child::after { content: ""; margin=
+: 0px; }
+
+@media (max-width: 768px) {
+  .styles-module__af8k3q__footer, .styles-module__af8k3q__footerNav { text-=
+align: center; justify-content: center; }
+  .styles-module__af8k3q__madeWithLove, .styles-module__af8k3q__footerNav {=
+ flex-basis: 100%; max-width: 100%; }
+}
+------MultipartBoundary--UJV2JerR3aGUKU6pxZH3bLNE5eDLhiVRKxU2zETYQJ----
+Content-Type: text/css
+Content-Transfer-Encoding: quoted-printable
+Content-Location: cid:css-155873b1-a186-4569-bfc8-9509be164d8a@mhtml.blink
+
+@charset "utf-8";
+
+#carbonads img { width: 130px; height: auto; }
+
+#carbonads .carbon-text { text-align: left; font-size: 1em; }
+
+@media only screen and (min-width: 320px) and (max-width: 759px) {
+  #carbonads .carbon-text { text-align: left; font-size: 0.725em; margin-bo=
+ttom: 3ex; }
+}
+------MultipartBoundary--UJV2JerR3aGUKU6pxZH3bLNE5eDLhiVRKxU2zETYQJ----
+Content-Type: text/css
+Content-Transfer-Encoding: quoted-printable
+Content-Location: cid:css-5115e54c-e222-489d-9c32-0a87626de522@mhtml.blink
+
+@charset "utf-8";
+
+@keyframes go2264125279 {=20
+  0% { transform: scale(0) rotate(45deg); opacity: 0; }
+  100% { transform: scale(1) rotate(45deg); opacity: 1; }
+}
+
+@keyframes go3020080000 {=20
+  0% { transform: scale(0); opacity: 0; }
+  100% { transform: scale(1); opacity: 1; }
+}
+
+@keyframes go463499852 {=20
+  0% { transform: scale(0) rotate(90deg); opacity: 0; }
+  100% { transform: scale(1) rotate(90deg); opacity: 1; }
+}
+
+@keyframes go1268368563 {=20
+  0% { transform: rotate(0deg); }
+  100% { transform: rotate(360deg); }
+}
+
+@keyframes go1310225428 {=20
+  0% { transform: scale(0) rotate(45deg); opacity: 0; }
+  100% { transform: scale(1) rotate(45deg); opacity: 1; }
+}
+
+@keyframes go651618207 {=20
+  0% { height: 0px; width: 0px; opacity: 0; }
+  40% { height: 0px; width: 6px; opacity: 1; }
+  100% { opacity: 1; height: 10px; }
+}
+
+@keyframes go901347462 {=20
+  0% { transform: scale(0.6); opacity: 0.4; }
+  100% { transform: scale(1); opacity: 1; }
+}
+
+.go4109123758 { z-index: 9999; }
+
+.go4109123758 > * { pointer-events: auto; }
+------MultipartBoundary--UJV2JerR3aGUKU6pxZH3bLNE5eDLhiVRKxU2zETYQJ------
