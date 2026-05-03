@@ -58,3 +58,8 @@ Fast-forward
  create mode 100644 twitter-infos.txt
 nil-pop@pop-os:~/Hello_world$ 
 
+
+- creating a new key
+- ssh-keygen -t ed25519 -C "your_email@example.com"
+
+
