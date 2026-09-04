@@ -1,0 +1,67 @@
+    1  exit
+    2  ps
+    3  ps a
+    4  ps au
+    5  ps aux
+    6  top
+    7  htop
+    8  top
+    9  df -lh
+   10  mkdir ~/ramdisk
+   11  sudo mount -t tmpfs -o size=2G tmpfs ~/ramdisk
+   12  sudo passwd giga4gen
+   13  cd ~/ramdisk/
+   14  ls
+   15  sudo apk update
+   16  sudo apt update
+   17  sudo apt install build-essential gdb cmake
+   18  exit
+   19  sudo nano /etc/apt/sources.list
+   20  sudo nano /etc/apt/sources.list.d/ubuntu.sources
+   21  sudo apt-get update
+   22  sudo apt install build-essential gdb cmake
+   23  ps aux
+   24  sudo apt install build-essential gdb cmake
+   25  exit
+   26  sudo apt install build-essential gdb cmake
+   27  grep -R "archive.ubuntu.com" /etc/apt/sources.list
+   28  grep -R "archive.ubuntu.com" /etc/apt/sources.list.d/ubuntu.sources
+   29  nano /etc/apt/apt.conf.d/99force-ipv4
+   30  sudo nano /etc/apt/apt.conf.d/99force-ipv4
+   31  sudo apt-get -o Acquire::http::Pipeline-Depth=200 update
+   32  curl -4 -o /dev/null http://in.archive.ubuntu.com/ubuntu/
+   33  exit
+   34  sudo apt install build-essential gdb cmake
+   35  curl -4 -o /dev/null http://in.archive.ubuntu.com/ubuntu/dists/resolute/main/binary-amd64/Packages
+   36  dd if=/dev/zero of=testfile bs=1M count=1024 conv=fdatasync
+   37  exit
+   38  sudo nano /etc/apt/apt.conf.d/99force-ipv4
+   39  sudo rm /etc/apt/apt.conf.d/99force-ipv4
+   40  sudo apt-get -o Acquire::http::Pipeline-Depth=200 update
+   41  ip addr | grep eth0
+   42  python3 -m http.server 80
+   43  sudo python3 -m http.server 80
+   44  cd /mnt/c/Users/giga4gen/Downloads/
+   45  ls
+   46  cd ../../../../r/
+   47  ls
+   48  sudo apt install ./apt-cacher-ng_3.7.5-1.3_amd64.deb
+   49  sudo service apt-cacher-ng start
+   50  sudo service apt-cacher-ng status
+   51  sudo mkdir -p /mnt/ramdisk
+   52  sudo mount -t tmpfs -o size=2G tmpfs /mnt/ramdisk
+   53  sudo rm -rf /var/cache/apt/archives
+   54  sudo ln -s /mnt/ramdisk /var/cache/apt/archives
+   55  sudo mount -t tmpfs -o size=1G tmpfs /var/tmp
+   56  sudo mount -t tmpfs -o size=4G tmpfs /mnt/ramdisk
+   57  df -lh
+   58  sudo nano /etc/apt/apt.conf.d/01proxy
+   59  sudo apt-get update
+   60  sudo apt-get install build-essential gdb cmake
+   61  sudo rm /etc/apt/apt.conf.d/01proxy
+   62  sudo rm /etc/apt/apt.conf.d/99force-ipv4
+   63  sudo rm /etc/apt/apt.conf.d/99pipelining
+   64  sudo apt-get clean
+   65  sudo service apt-cacher-ng stop
+   66  sudo apt-get update
+   67  history

@@ -1,0 +1,143 @@
+Got it — thanks for sharing your `df -lh` output. What you’re seeing is the **WSL2 virtualized filesystem layout**. The key part is:
+
+```
+/dev/sdd       1007G  1.3G  955G   1% /
+tmpfs           5.9G     0  5.9G   0% /tmp
+```
+
+- `/dev/sdd` → This is your **main WSL virtual disk (ext4.vhdx)**, about 1 TB in size. That’s where your Ubuntu root filesystem lives.  
+- `tmpfs` mounts (like `/tmp`, `/run`, `/run/shm`) → These are **RAM-backed filesystems**. They don’t touch your SSD and vanish when WSL shuts down. Perfect for temporary builds.  
+- The repeated `none` mounts are **WSL system overlays** (drivers, libraries, WSLg graphics support).  
+
+---
+
+## 🛠 Using RAM for C++ Development in Ubuntu WSL
+
+Since you already have Ubuntu 26 installed, you can **compile and run projects entirely in RAM** by using `tmpfs`:
+
+1. **Create a RAM disk directory**
+   ```bash
+   mkdir ~/ramdisk
+   sudo mount -t tmpfs -o size=2G tmpfs ~/ramdisk
+   ```
+   - This gives you a 2 GB RAM-backed filesystem at `~/ramdisk`.
+
+2. **Move your project there**
+   ```bash
+   cp -r ~/my_cpp_project ~/ramdisk/
+   cd ~/ramdisk/my_cpp_project
+   ```
+
+3. **Build inside RAM**
+   ```bash
+   cmake .
+   make
+   ./my_program
+   ```
+   - All compilation happens in memory → no SSD wear, faster builds.  
+   - When WSL shuts down, everything in `~/ramdisk` disappears.  
+
+4. **Keep source persistent, builds volatile**
+   - Store your source code in `/home` (on `/dev/sdd`).  
+   - Only copy builds into RAM (`~/ramdisk`) → reproducible, isolated, and safe.  
+
+---
+
+## ⚖️ Why This Helps
+
+| **RAM builds** | **Disk builds** |
+|----------------|----------------|
+| Faster compilation | Slower (SSD I/O bottleneck) |
+| No SSD wear | Continuous SSD writes |
+| Vanishes on shutdown → isolation | Persistent binaries |
+| Great for testing | Better for long-term storage |
+
+---
+
+## ✅ Next Step
+Nilipta, since your Ubuntu WSL is already set up, the most efficient path is:  
+- Keep **Ubuntu 26** as your base distro.  
+- Use **tmpfs RAM disks** for C++ builds.  
+- Optionally add **Debian Minimal** alongside Ubuntu if you want a smaller, cleaner environment for reproducibility.
+
+---
+
+Would you like me to walk you through a **step-by-step reproducible C++ workflow in Ubuntu WSL using tmpfs**, or show how to **install Debian Minimal alongside Ubuntu** so you can switch between a heavy Docker-ready distro and a lightweight dev-only distro?
+
+-------------------------------------------------------------------------------------
+
+interestingly i dont have the password for this ubuntu user
+-----
+
+Ah, that explains it — when Docker Desktop installs Ubuntu under WSL, it often sets up a default user automatically without prompting you for a password. That’s why you don’t know the password for `giga4gen`.  
+
+Here’s how you can regain control:
+
+---
+
+## 🛠 Resetting or Managing WSL Ubuntu User Passwords
+
+### 1. **Set a New Password**
+Inside your Ubuntu WSL terminal:
+```bash
+sudo passwd giga4gen
+```
+- If `sudo` asks for a password but you don’t have one, you’ll need to reset via root access (see below).
+
+---
+
+### 2. **Access Root Without Password**
+WSL allows you to launch directly as root:
+```powershell
+wsl -d Ubuntu-26.04 -u root
+```
+- Replace `Ubuntu-26.04` with the exact name of your distro (`wsl --list` shows it).  
+- Once inside as root, set a new password:
+  ```bash
+  passwd giga4gen
+  ```
+
+---
+
+### 3. **Change Default User**
+If you want to avoid the password issue entirely, you can set root or another user as the default:
+```powershell
+wsl -d Ubuntu-26.04 -u root
+```
+Then inside Ubuntu:
+```bash
+adduser nilipta
+usermod -aG sudo nilipta
+```
+Finally, set your new user as default:
+```powershell
+wsl -d Ubuntu-26.04 --user nilipta
+```
+
+---
+
+### 4. **Optional: Disable Password Prompts**
+Since WSL is already isolated, you can configure `sudo` to not ask for a password:
+```bash
+sudo visudo
+```
+Add this line:
+```
+nilipta ALL=(ALL) NOPASSWD:ALL
+```
+This way, your dev environment won’t block you with password prompts.
+
+---
+
+## ⚖️ Best Practice
+- Keep **root access available** for recovery.  
+- Use a **dedicated dev user** (like `nilipta`) for your C++ work.  
+- Configure `sudo` passwordless if you want smoother builds, especially since WSL is already sandboxed.  
+
+---
+
+👉 Nilipta, do you want me to walk you through a **step-by-step root login and password reset in WSL**, or would you prefer setting up a **new dedicated dev user in Ubuntu WSL** for your C++ environment so you don’t have to worry about Docker’s auto-created account?
+
+
+----------------------------------------------------------------------
+sudo apt install build-essential gdb cmake

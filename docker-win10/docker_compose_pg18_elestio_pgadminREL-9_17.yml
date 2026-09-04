@@ -1,0 +1,39 @@
+version: "3.9"
+
+services:
+  postgres:
+    image: postgres:18
+    container_name: postgres18
+    restart: unless-stopped
+    environment:
+      POSTGRES_USER: postgres        # default superuser
+      POSTGRES_PASSWORD: strongpass  # change to secure password
+      POSTGRES_DB: appdb             # default database created at startup
+      PGDATA: /var/lib/postgresql/data/pgdata  # custom data directory
+    volumes:
+      - postgres_data:/var/lib/postgresql/data/pgdata
+    ports:
+      - "5432:5432"
+
+  pgadmin:
+    image: elestio/pgadmin:REL-9_17
+    container_name: pgadmin
+    restart: unless-stopped
+    environment:
+      PGADMIN_DEFAULT_EMAIL: admin@example.com   # login email
+      PGADMIN_DEFAULT_PASSWORD: strongpass       # login password
+      PGADMIN_CONFIG_SERVER_MODE: "False"         # multi-user mode
+      PGADMIN_CONFIG_MASTER_PASSWORD_REQUIRED: "False"
+      PGADMIN_CONFIG_ENHANCED_COOKIE_PROTECTION: "True"
+    volumes:
+      - pgadmin_data:/var/lib/pgadmin
+    ports:
+      - "8080:80"
+    depends_on:
+      - postgres
+
+volumes:
+  postgres_data:
+    driver: local
+  pgadmin_data:
+    driver: local
