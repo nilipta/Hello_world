@@ -4475,3 +4475,81 @@
   862  conda deactivate
   863  python -m ipykernel install --user --name=gpu__env --display-name "conda(gpu_env)"
   864  history >> ~/Hello_world/popos-history.txt 
+  866  mkdir -p ~/.config/systemd/user
+  867  nano ~/.config/systemd/user/clipboard-history.service
+  868  mv clipboard_logger.py ~/
+  869  ls ~
+  870  nano ~/.config/systemd/user/clipboard-history.service
+  871  systemctl --user daemon-reload
+  872  systemctl --user enable --now clipboard-history.service
+  873  systemctl --user status clipboard-history.service
+  874  journalctl --user -u clipboard-history.service -f
+  875  sudo apt get update'
+  876  sudo apt get update
+  877  sudo apt update
+  878  sudo apt install xclip -y
+  879  systemctl --user restart clipboard-history.service
+  880  systemctl --user status clipboard-history.service
+  881  journalctl --user -u clipboard-history.service -f
+  882  tail -f /dev/shm/clipboard_history.jsonl
+  883  systemctl --user restart clipboard-history.service
+  884  tail -f /dev/shm/clipboard_history.jsonl
+  885  systemctl --user restart clipboard-history.service
+  886  tail -f /dev/shm/clipboard_history.jsonl
+  887  systemctl --user status clipboard-history.service
+  888  journalctl --user -u clipboard-history.service -f
+  889  tail -f /dev/shm/clipboard_history.jsonl
+  890  systemctl --user stop clipboard-history.service
+  891  systemctl --user start clipboard-history.service
+  892  cd Documents/conda-docs/
+  893  conda activate gpu_env
+  894  conda list | less
+  895  nano ~/.bashrc 
+  896  source ~/.bashrc 
+  897  condalist my_env
+  898  condalist gpu_env
+  899  conda activate gpu_env
+  900  conda list > gpu_env.txt
+  901  condalist gpu_env
+  902  cd ~/Hello_world/
+  903  ls
+  904  git sttaus
+  905  git staus
+  906  git status
+  907  git commit -am "updated popos commands"
+  908  git push
+  909  git pull
+  910  git push
+  911  pwd
+  912  git commit -am "popos-cipboard-history"
+  913  git commit -Am "popos-cipboard-history"
+  914  git commit -Am "popos-cipboard-history" | less
+  915  git commit -Am "popos-cipboard-history" | less --help
+  916  git add .
+  917  git commit -Am "popos-cipboard-history"; git push
+  918  git commit -am "popos-cipboard-history"; git push
+  919  conda deactivate
+  920  conda activate gpu_env
+  921  lsblk
+  922  lsblk -f
+  923  cat /etc/fstab
+  924  systemctl --failed
+  925  journalctl -b -p err
+  926  blkid | grep swap
+  927  sudo nano /etc/fstab 
+  928  sudo update-initramfs -u
+  929  swapon --show
+  930  sudo find / -type f -name "swapfile" 2>/dev/null
+  931  systemctl list-unit-files | grep swap
+  932  sudo du -shx /* | sort -h
+  933  df -lh
+  934  sudo mkswap /dev/nvme0n1p4
+  935  blkid /dev/nvme0n1p4
+  936  sudo nano /etc/fstab 
+  937  sudo swapon /dev/nvme0n1p4
+  938  swapon --show
+  939  sudo update-initramfs -u
+  940  history
+  941  history | tail -n 100
+  942  history | tail -n 78
+  943  history | tail -n 78 >> ~/Hello_world/popos-history.txt
